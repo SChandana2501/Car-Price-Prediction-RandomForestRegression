@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('/static/css/carpic.jpg') center/cover fixed no-repeat;
+    /* Adjust the path to your background image and customize properties as needed */
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.2); /* Adjust the alpha channel for transparency (0 to 1) */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+}
+
+.card.mt-50 {
+    background-color: rgba(255, 255, 255, 0); /* Adjust the alpha channel for transparency (0 to 1) */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+}
+
+.card-header h1 {
+    animation: fadeInUp 1.5s ease-in-out;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animated-header.text-light.bg-dark {
+    color: #ffffff;
+    background-color: #343a40;
+    padding: 15px;
+}
+
+/* Add these styles to your style.css file */
+
+label {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: #080808; /* Set label text color to white or your preferred color */
+}
+
+/* Styling for the dropdown box */
+.selectpicker.form-control {
+    background-color: #f8fafb; /* Set the background color of the dropdown to dark */
+    font-weight: bold;
+    color: #0d0d0d; /* Set the text color of the dropdown to white or your preferred color */
+    border: 1px solid #0a0a0a; /* Set the border color of the dropdown */
+}
+
+/* Style the options in the dropdown */
+.selectpicker.form-control option {
+    background-color: #e9ebed; /* Set the background color of dropdown options to dark */
+    color: #090909; /* Set the text color of dropdown options to white or your preferred color */
+}
+
+#prediction {
+    font-style: italic;
+    color: #fafafa;
+    font-size: 30px; /* Adjust the font size as needed */
+}

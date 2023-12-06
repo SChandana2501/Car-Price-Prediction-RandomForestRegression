@@ -1,0 +1,2400 @@
+,Name,Model,Year,Mileage,Price
+1,Nissan,Nissan Versa,2021,67039,16499
+2,Hyundai,Hyundai Elantra,2020,68441,16499
+3,Kia,Kia Soul,2020,63093,16799
+4,Kia,Kia Soul,2020,68335,16999
+5,Nissan,Nissan Altima,2018,72923,16999
+6,Toyota,Toyota Corolla,2020,68693,17499
+7,Volkswagen,Volkswagen Jetta,2021,66688,17999
+8,Toyota,Toyota Corolla,2020,63396,18499
+9,Nissan,Nissan Altima,2020,73205,18499
+10,Toyota,Toyota Corolla,2021,76644,18499
+11,Kia,Kia Optima,2019,48313,18999
+12,Chevrolet,Chevrolet Impala,2018,75748,18999
+13,Chevrolet,Chevrolet Malibu,2021,68427,19499
+14,Hyundai,Hyundai Kona,2021,60140,19999
+15,Nissan,Nissan Rogue,2021,75622,20999
+16,Nissan,Nissan Altima,2022,26019,21699
+17,Chevrolet,Chevrolet Equinox,2021,44515,22499
+18,Jeep,Jeep Compass,2021,66147,22499
+19,Nissan,Nissan Rogue,2021,66662,22499
+20,Ford,Ford Escape,2019,38441,22999
+21,Jeep,Jeep Grand Cherokee,2018,61622,26999
+22,RAM,RAM 1500 Classic,2021,64013,27999
+23,Chevrolet,Chevrolet Traverse,2020,64693,28999
+24,Dodge,Dodge Durango,2020,72159,29999
+25,Buick,Buick Enclave,2018,54463,31999
+26,BMW,BMW X1,2021,34984,32999
+27,GMC,GMC Yukon,2021,72468,52499
+28,Nissan,Nissan Sentra,2021,65603,17999
+29,Ford,Ford Escape,2018,81689,17999
+30,Mitsubishi,Mitsubishi Outlander Sport,2021,62940,19499
+31,Jeep,Jeep Cherokee,2020,72056,23499
+32,Chevrolet,Chevrolet Silverado 1500,2017,76459,24999
+33,Toyota,Toyota Highlander,2018,96398,29999
+34,Chevrolet,Chevrolet Spark,2020,63054,14999
+35,Chevrolet,Chevrolet Spark,2021,64648,14999
+36,Kia,Kia Soul,2021,65444,16999
+37,Nissan,Nissan Sentra,2021,68411,17999
+38,Kia,Kia Soul,2020,78243,17999
+39,Chevrolet,Chevrolet Trax,2020,58824,18799
+40,Ford,Ford Ecosport,2020,64250,19999
+41,Dodge,Dodge Journey,2020,67111,19999
+42,Volkswagen,Volkswagen Passat,2021,75648,19999
+43,Toyota,Toyota Camry,2020,69225,21499
+44,Jeep,Jeep Compass,2021,64564,21999
+45,Jeep,Jeep Cherokee,2021,77242,23499
+46,Dodge,Dodge Durango,2016,19581,24999
+47,Toyota,Toyota Tacoma 2WD,2021,37596,24999
+48,Buick,Buick Envision,2019,60592,24999
+49,GMC,GMC Acadia,2019,65467,25999
+50,Chrysler,Chrysler Pacifica,2021,73320,25999
+51,Dodge,Dodge Durango,2019,49103,26499
+52,RAM,RAM 1500 Classic,2021,67577,27999
+53,Volkswagen,Volkswagen Atlas,2021,66017,28499
+54,Ford,Ford Explorer,2019,73349,28999
+55,Chevrolet,Chevrolet Traverse,2021,62458,29999
+56,Chevrolet,Chevrolet Colorado,2021,65230,29999
+57,RAM,RAM 1500,2020,81621,29999
+58,Chevrolet,Chevrolet Colorado,2021,63445,30799
+59,Dodge,Dodge Charger,2021,64299,30999
+60,Nissan,Nissan Armada,2021,76496,30999
+61,Alfa Romeo,Alfa Romeo Stelvio,2019,17847,31499
+62,Jeep,Jeep Wrangler,2021,66720,33299
+63,Jeep,Jeep Wrangler,2021,63050,33499
+64,RAM,RAM 1500,2020,65617,33499
+65,Hyundai,Hyundai Accent,2020,64810,15999
+66,Hyundai,Hyundai Elantra,2020,66714,16499
+67,Hyundai,Hyundai Kona,2020,71302,16499
+68,Kia,Kia Soul,2020,65330,16999
+69,Ford,Ford Escape,2018,83277,17499
+70,Hyundai,Hyundai Kona,2021,66498,18499
+71,Toyota,Toyota Corolla,2020,66877,18499
+72,Mazda,Mazda Mazda6,2021,88061,18999
+73,Chevrolet,Chevrolet Malibu,2021,60558,19499
+74,Chevrolet,Chevrolet Malibu,2021,67511,19999
+75,Hyundai,Hyundai Sonata,2021,67679,19999
+76,Chevrolet,Chevrolet Malibu,2021,70104,19999
+77,Nissan,Nissan Rogue,2019,72461,19999
+78,Honda,Honda Accord Sedan,2018,98378,19999
+79,Nissan,Nissan Rogue,2021,75715,22499
+80,Nissan,Nissan Maxima,2020,64741,22999
+81,Nissan,Nissan Rogue,2021,65145,23499
+82,GMC,GMC Terrain,2021,67672,23999
+83,Jeep,Jeep Cherokee,2020,69647,23999
+84,Hyundai,Hyundai Tucson,2020,71152,23999
+85,Nissan,Nissan Rogue,2021,63460,24499
+86,Ford,Ford Escape,2019,41744,24999
+87,Chrysler,Chrysler 300,2021,66057,24999
+88,Honda,Honda Accord Sedan,2019,67178,24999
+89,Chevrolet,Chevrolet Traverse,2019,66431,25999
+90,Chrysler,Chrysler Pacifica,2021,73949,25999
+91,Alfa Romeo,Alfa Romeo Giulia,2018,36972,26999
+92,Chrysler,Chrysler Pacifica,2021,68163,28999
+93,RAM,RAM 1500 Classic,2021,60899,29999
+94,Ford,Ford Explorer,2019,66089,29999
+95,BMW,BMW X3,2021,62295,30999
+96,Jeep,Jeep Grand Cherokee,2020,30211,31999
+97,Acura,Acura RDX,2019,63227,31999
+98,Toyota,Toyota Highlander,2021,74150,32499
+99,Infiniti,Infiniti QX80,2020,70656,32799
+100,Chevrolet,Chevrolet Silverado 1500,2019,65806,32999
+101,RAM,RAM 1500,2021,31452,34999
+102,Nissan,Nissan Armada,2021,73679,34999
+103,Ford,Ford Expedition,2019,70797,42999
+104,Chevrolet,Chevrolet Suburban,2021,75732,47999
+105,Chevrolet,Chevrolet Tahoe,2021,78764,49499
+106,Nissan,Nissan Versa Sedan,2019,61226,12999
+107,Nissan,Nissan Versa,2021,61480,15999
+108,Nissan,Nissan Versa,2021,61892,15999
+109,Nissan,Nissan Versa,2021,65956,16499
+110,Nissan,Nissan Kicks,2021,61028,17999
+111,Ford,Ford Ecosport,2021,59243,19499
+112,Toyota,Toyota Corolla,2021,61582,19499
+113,Chevrolet,Chevrolet Malibu,2021,62679,19499
+114,Mitsubishi,Mitsubishi Outlander Sport,2020,66402,19499
+115,Chevrolet,Chevrolet Malibu,2021,60855,19999
+116,Nissan,Nissan Altima,2021,61071,19999
+117,Nissan,Nissan Altima,2021,62582,19999
+118,Chevrolet,Chevrolet Malibu,2021,63497,19999
+119,Chevrolet,Chevrolet Malibu,2021,63949,19999
+120,Nissan,Nissan Altima,2021,65178,19999
+121,Nissan,Nissan Rogue Sport,2021,67456,19999
+122,Volkswagen,Volkswagen Passat,2021,63673,20499
+123,Chevrolet,Chevrolet Malibu,2021,65352,20499
+124,Chevrolet,Chevrolet Equinox,2021,74095,20499
+125,Mazda,Mazda Mazda CX-30,2020,62064,20999
+126,Kia,Kia K5,2021,64884,20999
+127,Jeep,Jeep Compass,2020,69025,21499
+128,Nissan,Nissan Altima,2020,70298,21499
+129,Chevrolet,Chevrolet Malibu,2021,69226,21799
+130,Infiniti,Infiniti QX50,2017,61045,21999
+131,Jeep,Jeep Compass,2021,63248,22499
+132,Nissan,Nissan Maxima,2021,62106,22999
+133,Jeep,Jeep Renegade,2019,60482,23499
+134,Nissan,Nissan Murano,2021,69422,23499
+135,Dodge,Dodge Charger,2021,63966,23799
+136,Jeep,Jeep Compass,2021,60804,23999
+137,GMC,GMC Terrain,2021,62564,23999
+138,GMC,GMC Terrain,2021,64894,23999
+139,GMC,GMC Terrain,2021,69412,23999
+140,Toyota,Toyota RAV4,2021,64135,24999
+141,Mazda,Mazda Mazda CX-5,2021,64282,24999
+142,Mazda,Mazda Mazda CX-5,2021,67965,24999
+143,Jeep,Jeep Cherokee,2020,67084,25449
+144,Chrysler,Chrysler Pacifica,2021,69790,26999
+145,Mazda,Mazda Mazda CX-9,2021,64153,29999
+146,Chevrolet,Chevrolet Express Cargo Van,2021,74383,31999
+147,RAM,RAM 1500,2020,38590,32499
+148,Nissan,Nissan Armada,2021,71619,34499
+149,Chevrolet,Chevrolet Silverado 1500,2020,69260,34999
+150,Ford,Ford Transit Cargo Van,2022,62270,44999
+151,Nissan,Nissan Sentra,2019,66595,14999
+152,Hyundai,Hyundai Accent,2020,65631,15999
+153,Hyundai,Hyundai Elantra,2019,54451,16499
+154,Hyundai,Hyundai Elantra,2020,63213,16499
+155,Hyundai,Hyundai Elantra,2020,64759,16499
+156,Kia,Kia Rio,2021,60207,16999
+157,Hyundai,Hyundai Kona,2020,62964,16999
+158,Kia,Kia Soul,2021,66693,16999
+159,Hyundai,Hyundai Venue,2021,68538,16999
+160,Kia,Kia Soul,2021,60427,17499
+161,Kia,Kia Soul,2020,60375,17999
+162,Hyundai,Hyundai Kona,2021,63558,17999
+163,Kia,Kia Forte,2020,67738,17999
+164,Kia,Kia Optima,2020,61310,18499
+165,Dodge,Dodge Journey,2020,63430,18999
+166,Kia,Kia Optima,2020,60633,19499
+167,Dodge,Dodge Grand Caravan,2019,65525,19499
+168,Toyota,Toyota Corolla,2021,68493,19499
+169,Dodge,Dodge Journey,2019,45490,19999
+170,Hyundai,Hyundai Sonata,2021,62666,19999
+171,Nissan,Nissan Altima,2021,60448,20499
+172,Volkswagen,Volkswagen Passat,2021,61620,20499
+173,Volkswagen,Volkswagen Passat,2021,66965,20499
+174,Ford,Ford Fusion,2020,66473,20999
+175,Nissan,Nissan Rogue,2019,50122,22499
+176,Nissan,Nissan Altima,2022,28591,22999
+177,Nissan,Nissan Maxima,2021,61806,23999
+178,Nissan,Nissan Rogue,2021,61127,24999
+179,Nissan,Nissan Rogue,2021,64158,24999
+180,Nissan,Nissan Rogue,2021,67175,24999
+181,Toyota,Toyota Camry,2022,31520,26499
+182,Chrysler,Chrysler Pacifica,2021,70836,26499
+183,Chrysler,Chrysler Pacifica,2021,69557,26999
+184,Cadillac,Cadillac XT4,2019,62423,27499
+185,Toyota,Toyota Camry,2022,18986,27999
+186,Cadillac,Cadillac XT4,2021,65064,28999
+187,Chevrolet,Chevrolet Silverado 1500,2020,61319,32999
+188,Nissan,Nissan Armada,2021,81050,34499
+189,Toyota,Toyota Tacoma 4WD,2021,63046,35999
+190,Chevrolet,Chevrolet Silverado 1500,2021,60388,37499
+191,Chevrolet,Chevrolet Spark,2021,62508,14999
+192,Hyundai,Hyundai Accent,2020,61412,15999
+193,Kia,Kia Soul,2020,65148,16999
+194,Volkswagen,Volkswagen Jetta,2020,60555,17999
+195,Dodge,Dodge Grand Caravan,2019,75217,18299
+196,Nissan,Nissan Rogue Sport,2021,65953,18499
+197,Dodge,Dodge Journey,2020,63838,18999
+198,Dodge,Dodge Journey,2020,65851,19499
+199,Nissan,Nissan Rogue Sport,2021,61203,19999
+200,Nissan,Nissan Altima,2021,71942,19999
+201,Chevrolet,Chevrolet Equinox,2021,70852,20499
+202,Honda,Honda Accord Sedan,2020,60441,22499
+203,Jeep,Jeep Cherokee,2020,63386,23499
+204,GMC,GMC Terrain,2021,61162,24799
+205,Chrysler,Chrysler Pacifica,2021,70844,26499
+206,Chrysler,Chrysler Pacifica,2021,73082,26499
+207,Ford,Ford Edge,2020,21733,29999
+208,RAM,RAM 1500 Classic,2021,42814,32999
+209,Ford,Ford Transit Passenger Wagon,2021,66395,44499
+210,Ford,Ford Transit Passenger Wagon,2021,68679,44799
+211,Chevrolet,Chevrolet Suburban,2021,42080,64999
+212,Nissan,Nissan Versa,2020,60587,15999
+213,Nissan,Nissan Versa,2020,65000,15999
+214,Hyundai,Hyundai Elantra,2020,64292,16499
+215,Hyundai,Hyundai Accent,2021,64338,16499
+216,Hyundai,Hyundai Elantra,2020,65994,16499
+217,Kia,Kia Forte,2020,63053,16999
+218,Mitsubishi,Mitsubishi Eclipse Cross,2020,61159,17499
+219,Ford,Ford Fusion,2019,62326,17999
+220,Kia,Kia Forte,2020,63752,17999
+221,Chevrolet,Chevrolet Equinox,2019,67265,17999
+222,Mitsubishi,Mitsubishi Outlander Sport,2020,63493,18999
+223,Kia,Kia Sportage,2021,65401,18999
+224,Chevrolet,Chevrolet Malibu,2021,69460,19499
+225,Chevrolet,Chevrolet Malibu,2020,69788,19499
+226,Nissan,Nissan Altima,2021,60479,19999
+227,Hyundai,Hyundai Kona,2021,60508,19999
+228,Nissan,Nissan Altima,2021,61883,19999
+229,Hyundai,Hyundai Sonata,2021,62234,19999
+230,Hyundai,Hyundai Sonata,2021,63358,19999
+231,Hyundai,Hyundai Sonata,2021,63402,19999
+232,Ford,Ford Fusion,2020,64248,19999
+233,Hyundai,Hyundai Sonata,2021,64691,19999
+234,Buick,Buick Encore,2019,65001,19999
+235,Chevrolet,Chevrolet Malibu,2021,71011,19999
+236,Chevrolet,Chevrolet Equinox,2021,61074,20999
+237,Chevrolet,Chevrolet Equinox,2021,63483,20999
+238,Mazda,Mazda Mazda6,2021,60377,21499
+239,Mitsubishi,Mitsubishi Outlander,2020,60756,21499
+240,Nissan,Nissan Altima,2021,68738,21499
+241,Ford,Ford Escape,2020,39605,21999
+242,Jeep,Jeep Compass,2021,65652,21999
+243,Toyota,Toyota Corolla,2022,20566,22999
+244,Nissan,Nissan Maxima,2021,72369,22999
+245,Toyota,Toyota Corolla,2022,19506,23499
+246,Nissan,Nissan Rogue,2021,63789,23999
+247,Jeep,Jeep Cherokee,2019,65771,23999
+248,Dodge,Dodge Challenger,2021,61359,24999
+249,Dodge,Dodge Challenger,2019,62716,24999
+250,Chrysler,Chrysler 300,2021,63100,25499
+251,Chrysler,Chrysler 300,2021,62544,25999
+252,Toyota,Toyota Camry,2022,30766,26499
+253,Toyota,Toyota Camry,2022,27325,26999
+254,Chrysler,Chrysler Pacifica,2020,72409,26999
+255,Toyota,Toyota RAV4,2021,60557,27499
+256,Cadillac,Cadillac XT4,2019,66480,28499
+257,Toyota,Toyota RAV4,2021,67328,28999
+258,Toyota,Toyota RAV4,2022,25397,29999
+259,Chevrolet,Chevrolet Colorado,2021,62679,29999
+260,Acura,Acura MDX,2019,62912,29999
+261,Chrysler,Chrysler Pacifica,2022,73494,31999
+262,Nissan,Nissan Armada,2021,74440,34499
+263,RAM,RAM 1500,2020,61770,36999
+264,Hyundai,Hyundai Elantra,2019,62378,15999
+265,Nissan,Nissan Versa,2021,67111,16499
+266,Kia,Kia Soul,2020,60893,16999
+267,Kia,Kia Soul,2020,61709,16999
+268,Kia,Kia Rio,2021,61960,16999
+269,Kia,Kia Forte,2020,64313,16999
+270,Nissan,Nissan Altima,2019,62905,17999
+271,Chevrolet,Chevrolet Equinox,2020,62200,18999
+272,Mitsubishi,Mitsubishi Outlander Sport,2021,62807,18999
+273,Kia,Kia Optima,2020,61812,19499
+274,Chevrolet,Chevrolet Malibu,2021,62015,19499
+275,Chevrolet,Chevrolet Equinox,2021,62048,19499
+276,Chevrolet,Chevrolet Equinox,2021,62907,19499
+277,Chevrolet,Chevrolet Malibu,2021,68654,19499
+278,Chevrolet,Chevrolet Malibu,2021,69350,19499
+279,Ford,Ford Fusion,2020,61046,19799
+280,Kia,Kia Sportage,2021,60238,19999
+281,Hyundai,Hyundai Sonata,2021,62385,19999
+282,Chevrolet,Chevrolet Malibu,2021,63825,19999
+283,Mazda,Mazda Mazda3 Sedan,2021,64412,19999
+284,Ford,Ford Ecosport,2021,61493,20499
+285,Chevrolet,Chevrolet Equinox,2021,60801,20999
+286,Chevrolet,Chevrolet Equinox,2021,60962,20999
+287,Chevrolet,Chevrolet Equinox,2021,62373,20999
+288,Kia,Kia K5,2021,62542,20999
+289,Chevrolet,Chevrolet Equinox,2021,63150,20999
+290,Chevrolet,Chevrolet Equinox,2021,64654,20999
+291,Jeep,Jeep Compass,2020,64846,22799
+292,Toyota,Toyota Corolla,2022,22392,22999
+293,Nissan,Nissan Rogue,2019,44687,22999
+294,Nissan,Nissan Rogue,2021,61652,23999
+295,Buick,Buick Envision,2019,69505,24499
+296,GMC,GMC Terrain,2021,60777,24799
+297,Nissan,Nissan Rogue,2021,60415,24999
+298,Nissan,Nissan Rogue,2021,61933,24999
+299,Nissan,Nissan Rogue,2021,62859,24999
+300,Nissan,Nissan Rogue,2021,65706,24999
+301,Chrysler,Chrysler Pacifica,2021,75183,25999
+302,Toyota,Toyota Camry,2022,28894,26999
+303,Cadillac,Cadillac XT5,2019,68133,26999
+304,Chevrolet,Chevrolet Colorado,2020,60220,28999
+305,Chevrolet,Chevrolet Traverse,2021,65749,28999
+306,Mazda,Mazda Mazda CX-9,2021,60744,29999
+307,Ford,Ford F-150,2020,62815,34999
+308,Ford,Ford Expedition,2020,70792,42999
+309,Chevrolet,Chevrolet Tahoe,2021,71330,49999
+310,Chevrolet,Chevrolet Malibu,2019,98925,15999
+311,Nissan,Nissan Versa,2021,64189,16499
+312,Hyundai,Hyundai Accent,2021,64590,16499
+313,Kia,Kia Optima,2020,64100,16999
+314,Kia,Kia Forte,2019,62685,17999
+315,Ford,Ford Ecosport,2019,69878,17999
+316,Chevrolet,Chevrolet Malibu,2020,65471,18499
+317,Nissan,Nissan Rogue Sport,2021,61328,18999
+318,Chevrolet,Chevrolet Equinox,2021,66709,18999
+319,Nissan,Nissan Rogue Sport,2021,72882,18999
+320,Nissan,Nissan Rogue Sport,2021,68161,19499
+321,Chevrolet,Chevrolet Malibu,2021,68717,19499
+322,Jeep,Jeep Compass,2020,60555,19999
+323,Ford,Ford Fusion,2020,60687,19999
+324,Hyundai,Hyundai Sonata,2021,61197,19999
+325,Nissan,Nissan Altima,2021,67146,19999
+326,Volkswagen,Volkswagen Passat,2021,68152,19999
+327,Jeep,Jeep Compass,2019,63088,20499
+328,Kia,Kia K5,2021,75138,20499
+329,Chevrolet,Chevrolet Equinox,2021,65180,20999
+330,Chevrolet,Chevrolet Equinox,2021,65597,20999
+331,Jeep,Jeep Compass,2021,71497,21499
+332,Ford,Ford Fusion,2020,68248,21999
+333,Ford,Ford Ecosport,2021,25058,22499
+334,Buick,Buick Envision,2020,60845,22799
+335,Jeep,Jeep Cherokee,2018,60714,22999
+336,Dodge,Dodge Challenger,2020,64088,22999
+337,Jeep,Jeep Cherokee,2020,60826,23499
+338,Nissan,Nissan Maxima,2020,63017,23499
+339,Dodge,Dodge Charger,2021,61076,23999
+340,RAM,RAM ProMaster City Cargo Van,2018,14548,24999
+341,Mazda,Mazda Mazda CX-5,2021,67629,24999
+342,Volkswagen,Volkswagen Atlas,2021,62968,27799
+343,Acura,Acura TLX,2020,61840,27999
+344,RAM,RAM 1500,2020,61870,31799
+345,Chevrolet,Chevrolet Silverado 1500,2020,61821,32999
+346,Ford,Ford Fiesta,2019,64858,14999
+347,Hyundai,Hyundai Accent,2020,61808,15499
+348,Ford,Ford Fusion,2018,61272,16499
+349,Hyundai,Hyundai Elantra,2020,67629,16499
+350,Kia,Kia Soul,2021,65518,16999
+351,Hyundai,Hyundai Kona,2021,63187,17999
+352,Kia,Kia Forte,2021,65319,17999
+353,Kia,Kia Sportage,2021,63109,18499
+354,Kia,Kia Forte,2019,46894,18999
+355,Kia,Kia Optima,2020,63150,18999
+356,Mazda,Mazda Mazda3 Sedan,2021,64911,18999
+357,Kia,Kia Sportage,2021,65554,18999
+358,Hyundai,Hyundai Sonata,2021,65632,18999
+359,Nissan,Nissan Rogue Sport,2021,61980,19499
+360,Jeep,Jeep Compass,2020,62025,19999
+361,Nissan,Nissan Altima,2021,63380,19999
+362,Nissan,Nissan Rogue,2020,63490,19999
+363,Kia,Kia K5,2021,67447,19999
+364,Kia,Kia K5,2021,67540,19999
+365,Kia,Kia K5,2021,68152,19999
+366,Volkswagen,Volkswagen Passat,2021,61366,20499
+367,Nissan,Nissan Altima,2021,63824,20499
+368,Nissan,Nissan Altima,2021,64156,20499
+369,Volkswagen,Volkswagen Passat,2021,67506,20499
+370,Mazda,Mazda Mazda CX-30,2021,62894,20999
+371,Chrysler,Chrysler Voyager,2021,76186,21499
+372,Nissan,Nissan Rogue,2021,63664,22999
+373,Kia,Kia Sorento,2021,49214,23499
+374,Jeep,Jeep Cherokee,2019,57500,23499
+375,Nissan,Nissan Rogue,2021,62540,23999
+376,Nissan,Nissan Murano,2019,64831,23999
+377,Mazda,Mazda Mazda CX-5,2021,62837,24799
+378,Infiniti,Infiniti QX50,2019,65192,24999
+379,RAM,RAM 1500 Classic,2021,68727,28999
+380,Jeep,Jeep Grand Cherokee,2020,65253,29499
+381,Hyundai,Hyundai Palisade,2020,62799,32999
+382,RAM,RAM 2500,2021,53968,45999
+383,Hyundai,Hyundai Accent,2020,67111,15999
+384,Nissan,Nissan Kicks,2021,65913,16999
+385,Hyundai,Hyundai Kona,2021,67790,17999
+386,Nissan,Nissan Rogue Sport,2021,69740,17999
+387,Hyundai,Hyundai Sonata,2019,62298,18999
+388,Kia,Kia Sportage,2021,66478,18999
+389,Honda,Honda Civic Sedan,2019,68332,18999
+390,Volkswagen,Volkswagen Tiguan,2021,69004,20999
+391,Volkswagen,Volkswagen Tiguan,2021,64347,21999
+392,Toyota,Toyota Camry,2021,63387,22999
+393,Nissan,Nissan Maxima,2021,67506,22999
+394,Toyota,Toyota RAV4,2020,70401,23999
+395,Toyota,Toyota RAV4,2021,66047,24799
+396,Toyota,Toyota Camry,2019,69145,25799
+397,Chevrolet,Chevrolet Colorado,2021,66408,29499
+398,Ford,Ford F-150,2019,69207,31499
+399,Toyota,Toyota 4Runner,2021,68407,32999
+400,Ford,Ford F-150,2021,64687,38999
+401,Hyundai,Hyundai Accent,2021,61570,16499
+402,Hyundai,Hyundai Elantra,2020,66304,16499
+403,Kia,Kia Soul,2019,66399,16499
+404,Nissan,Nissan Versa,2021,68113,16499
+405,Hyundai,Hyundai Venue,2021,66569,16999
+406,Kia,Kia Soul,2020,66797,16999
+407,Kia,Kia Soul,2021,67597,16999
+408,Volkswagen,Volkswagen Golf,2019,60759,17499
+409,Kia,Kia Soul,2021,66140,17499
+410,Hyundai,Hyundai Kona,2021,66609,17499
+411,Kia,Kia Forte,2021,63587,17999
+412,Nissan,Nissan Altima,2021,65122,17999
+413,Kia,Kia Forte,2021,65287,17999
+414,Ford,Ford Ecosport,2020,66286,18999
+415,Hyundai,Hyundai Sonata,2021,67167,18999
+416,GMC,GMC Terrain,2018,67904,18999
+417,Chevrolet,Chevrolet Malibu,2021,68159,19499
+418,Mazda,Mazda Mazda3 Sedan,2021,67181,19999
+419,Nissan,Nissan Altima,2021,67520,19999
+420,Volkswagen,Volkswagen Passat,2021,67801,19999
+421,Hyundai,Hyundai Sonata,2021,68281,19999
+422,Jeep,Jeep Cherokee,2020,66175,20499
+423,Nissan,Nissan Altima,2021,67112,20999
+424,Chevrolet,Chevrolet Equinox,2021,68507,20999
+425,Nissan,Nissan Altima,2021,65839,21499
+426,Nissan,Nissan Altima,2021,66966,21499
+427,Toyota,Toyota Corolla,2022,22907,21999
+428,Nissan,Nissan Rogue,2020,55735,21999
+429,Jeep,Jeep Compass,2021,60675,21999
+430,Chevrolet,Chevrolet Malibu,2020,66542,22499
+431,Honda,Honda HR-V,2020,71600,22499
+432,Ford,Ford Mustang,2020,64976,22999
+433,Nissan,Nissan Rogue,2021,66008,22999
+434,Nissan,Nissan Frontier,2019,68181,22999
+435,Toyota,Toyota Camry,2021,68408,22999
+436,Dodge,Dodge Charger,2020,69429,22999
+437,Toyota,Toyota Camry,2021,74742,22999
+438,Jeep,Jeep Cherokee,2019,68272,23499
+439,Jeep,Jeep Grand Cherokee,2019,68507,23499
+440,GMC,GMC Terrain,2021,68394,23799
+441,Nissan,Nissan Rogue,2021,67414,23999
+442,Toyota,Toyota Camry,2022,28150,24999
+443,Chevrolet,Chevrolet Equinox,2020,68046,24999
+444,Dodge,Dodge Charger,2021,67196,25999
+445,Cadillac,Cadillac XT5,2019,69653,25999
+446,Cadillac,Cadillac XT5,2019,70900,25999
+447,Audi,Audi Q5,2021,66204,27499
+448,RAM,RAM 1500 Classic,2021,71330,27999
+449,Buick,Buick Enclave,2019,71983,27999
+450,Cadillac,Cadillac XT4,2021,68231,29499
+451,Toyota,Toyota Highlander,2020,80592,29799
+452,Infiniti,Infiniti QX80,2020,72997,32999
+453,Chrysler,Chrysler Pacifica,2021,63438,34999
+454,Hyundai,Hyundai Accent,2020,65821,15999
+455,Hyundai,Hyundai Accent,2021,62321,16499
+456,Kia,Kia Rio,2021,61112,16999
+457,Hyundai,Hyundai Venue,2021,62548,16999
+458,Hyundai,Hyundai Accent,2021,67473,16999
+459,Nissan,Nissan Rogue Sport,2019,62732,17799
+460,Kia,Kia Forte,2019,61132,17999
+461,Chevrolet,Chevrolet Malibu,2020,60598,18499
+462,Chevrolet,Chevrolet Trax,2021,62283,18499
+463,Nissan,Nissan Altima,2020,64205,18499
+464,Nissan,Nissan Altima,2020,66450,18499
+465,Volkswagen,Volkswagen Jetta,2021,62357,18999
+466,Ford,Ford Ecosport,2020,64232,18999
+467,Toyota,Toyota Corolla,2021,70102,18999
+468,Ford,Ford Fusion,2020,72251,18999
+469,Hyundai,Hyundai Sonata,2021,65970,19499
+470,Mazda,Mazda Mazda3 Sedan,2021,66322,19799
+471,Nissan,Nissan Altima,2021,63448,19999
+472,Chevrolet,Chevrolet Malibu,2021,65123,19999
+473,Mitsubishi,Mitsubishi Outlander,2020,65951,19999
+474,Jeep,Jeep Compass,2019,61571,20499
+475,Hyundai,Hyundai Sonata,2019,9602,20999
+476,Nissan,Nissan Rogue,2020,61198,20999
+477,Chevrolet,Chevrolet Equinox,2021,61660,20999
+478,Jeep,Jeep Cherokee,2020,66264,20999
+479,Kia,Kia K5,2021,67400,20999
+480,Nissan,Nissan Altima,2022,30327,21699
+481,Toyota,Toyota Camry,2021,61132,22999
+482,Buick,Buick Envision,2020,61305,23799
+483,Jeep,Jeep Cherokee,2020,63474,23999
+484,Dodge,Dodge Charger,2021,64124,24799
+485,Jeep,Jeep Cherokee,2020,41639,25999
+486,Ford,Ford Mustang,2019,41752,26499
+487,Buick,Buick Envision,2019,60054,27999
+488,Chevrolet,Chevrolet Colorado,2021,60879,29999
+489,Toyota,Toyota RAV4,2020,33130,31999
+490,Dodge,Dodge Durango,2021,63260,33499
+491,RAM,RAM 1500,2020,61035,36999
+492,Hyundai,Hyundai Veloster,2019,66670,15999
+493,Hyundai,Hyundai Accent,2020,66815,15999
+494,Hyundai,Hyundai Elantra,2020,60756,16499
+495,Nissan,Nissan Versa,2021,66196,16499
+496,Hyundai,Hyundai Elantra,2020,66671,16499
+497,Hyundai,Hyundai Elantra,2020,66986,16499
+498,Hyundai,Hyundai Accent,2021,67243,16499
+499,Nissan,Nissan Versa,2021,65726,16999
+500,Kia,Kia Soul,2021,67237,16999
+501,Hyundai,Hyundai Kona,2020,67946,16999
+502,Kia,Kia Soul,2021,65972,17499
+503,Hyundai,Hyundai Kona,2020,76050,17499
+504,Nissan,Nissan Sentra,2021,66702,17999
+505,Kia,Kia Forte,2021,68376,17999
+506,Nissan,Nissan Rogue Sport,2021,68716,18499
+507,Toyota,Toyota Corolla,2021,65833,19499
+508,Toyota,Toyota Camry,2020,79026,19799
+509,Nissan,Nissan Altima,2021,72551,21299
+510,Toyota,Toyota Camry,2020,67267,21999
+511,Chrysler,Chrysler Voyager,2021,73892,21999
+512,Mazda,Mazda Mazda6,2021,68419,22299
+513,Mazda,Mazda Mazda CX-5,2021,68797,22799
+514,Subaru,Subaru Crosstrek,2019,58428,22999
+515,Toyota,Toyota Camry,2021,68105,22999
+516,Toyota,Toyota Camry,2021,70459,22999
+517,Toyota,Toyota Camry,2021,68446,23499
+518,Jeep,Jeep Cherokee,2020,65221,23999
+519,Nissan,Nissan Rogue,2021,66363,23999
+520,Nissan,Nissan Rogue,2021,68646,24799
+521,Nissan,Nissan NV200 Compact Cargo,2021,59453,24999
+522,Chrysler,Chrysler 300,2021,62282,24999
+523,Chrysler,Chrysler Pacifica,2021,75571,25999
+524,Chevrolet,Chevrolet Traverse,2019,71774,26499
+525,Chrysler,Chrysler Pacifica,2021,72860,26499
+526,Toyota,Toyota RAV4,2020,66362,27999
+527,Toyota,Toyota Sienna,2020,73240,30999
+528,Ford,Ford Explorer,2022,42627,31499
+529,Chevrolet,Chevrolet Silverado 1500,2020,66307,33999
+530,Buick,Buick Enclave,2020,67329,34499
+531,Kia,Kia Telluride,2021,68529,34999
+532,Toyota,Toyota Venza,2022,26244,35999
+533,Jeep,Jeep Wrangler,2021,66286,39999
+534,Kia,Kia Telluride,2021,47809,42999
+535,Chevrolet,Chevrolet Sonic,2020,62118,15299
+536,Hyundai,Hyundai Accent,2020,65902,15499
+537,Nissan,Nissan Versa,2021,60730,16499
+538,Kia,Kia Soul,2021,65632,16999
+539,Chevrolet,Chevrolet Equinox,2019,62477,17999
+540,Kia,Kia Forte,2021,62729,17999
+541,Chevrolet,Chevrolet Trax,2021,63416,17999
+542,Chevrolet,Chevrolet Trax,2021,65333,17999
+543,Mitsubishi,Mitsubishi Eclipse Cross,2020,65476,17999
+544,Kia,Kia Forte,2021,68296,17999
+545,Mitsubishi,Mitsubishi Outlander Sport,2020,63478,18499
+546,Nissan,Nissan Altima,2020,66469,18499
+547,Dodge,Dodge Journey,2020,62279,18999
+548,Hyundai,Hyundai Sonata,2021,64256,18999
+549,Toyota,Toyota Corolla,2021,64377,18999
+550,Kia,Kia Optima,2020,64758,18999
+551,Hyundai,Hyundai Sonata,2021,65154,18999
+552,Chevrolet,Chevrolet Malibu,2021,64301,19499
+553,Volkswagen,Volkswagen Passat,2020,61785,19999
+554,Kia,Kia K5,2021,66152,19999
+555,Volkswagen,Volkswagen Passat,2021,63503,20499
+556,Nissan,Nissan Altima,2021,63855,20499
+557,Jeep,Jeep Cherokee,2020,64893,20499
+558,Nissan,Nissan Altima,2020,67809,20999
+559,Subaru,Subaru Forester,2020,71946,20999
+560,Nissan,Nissan Altima,2021,61671,21499
+561,Nissan,Nissan Murano,2021,62769,21499
+562,Nissan,Nissan Altima,2021,63050,21499
+563,Jeep,Jeep Compass,2021,63479,21999
+564,Jeep,Jeep Compass,2021,64787,21999
+565,Chrysler,Chrysler Voyager,2021,72644,21999
+566,Toyota,Toyota Camry,2021,64535,22999
+567,Honda,Honda HR-V,2021,49835,23499
+568,Nissan,Nissan Maxima,2021,63114,23999
+569,Nissan,Nissan Maxima,2021,63475,23999
+570,Nissan,Nissan Rogue,2021,63620,23999
+571,Dodge,Dodge Charger,2021,65176,23999
+572,Ford,Ford Edge,2020,70301,23999
+573,Mazda,Mazda Mazda CX-5,2021,62713,24799
+574,Mazda,Mazda Mazda CX-5,2021,63051,24799
+575,Chrysler,Chrysler 300,2021,62922,25499
+576,Chrysler,Chrysler Pacifica,2021,75945,25999
+577,Nissan,Nissan Rogue,2022,31774,27999
+578,GMC,GMC Acadia,2019,83529,29499
+579,Chevrolet,Chevrolet Colorado,2021,61586,30999
+580,Toyota,Toyota Avalon,2022,28362,31999
+581,Toyota,Toyota Avalon,2022,29957,31999
+582,Ford,Ford F-150,2021,60919,38999
+583,GMC,GMC Yukon XL,2021,79279,51799
+584,Chevrolet,Chevrolet Malibu,2020,73449,17499
+585,Hyundai,Hyundai Elantra,2018,88836,13499
+586,Nissan,Nissan Kicks,2020,60295,16199
+587,Nissan,Nissan Versa,2021,60656,16499
+588,Hyundai,Hyundai Accent,2021,60999,16499
+589,Nissan,Nissan Versa,2021,61368,16499
+590,Hyundai,Hyundai Elantra,2020,62219,16699
+591,Hyundai,Hyundai Elantra,2020,59683,16999
+592,Chevrolet,Chevrolet Cruze,2018,67885,16999
+593,Nissan,Nissan Kicks,2021,60696,17999
+594,Toyota,Toyota Corolla,2021,61021,18999
+595,Hyundai,Hyundai Sonata,2021,60450,19199
+596,Hyundai,Hyundai Tucson,2021,53106,20999
+597,Hyundai,Hyundai Tucson,2020,62914,21999
+598,Chrysler,Chrysler Voyager,2021,66110,21999
+599,Toyota,Toyota Camry,2021,61006,22299
+600,Toyota,Toyota Camry,2021,63113,22299
+601,Chevrolet,Chevrolet Equinox,2020,24645,22499
+602,Nissan,Nissan Rogue,2021,71499,22499
+603,Nissan,Nissan Maxima,2021,61356,22999
+604,GMC,GMC Terrain,2021,61394,24199
+605,Jeep,Jeep Renegade,2020,28929,25999
+606,Dodge,Dodge Charger,2021,54696,25999
+607,Chevrolet,Chevrolet Traverse,2019,62445,27999
+608,RAM,RAM 1500 Classic,2021,60528,28499
+609,RAM,RAM 1500 Classic,2021,61368,32999
+610,Toyota,Toyota 4Runner,2021,65484,32999
+611,Kia,Kia Rio,2021,60855,15499
+612,Hyundai,Hyundai Elantra,2020,60690,16699
+613,Nissan,Nissan Rogue Sport,2021,64137,17999
+614,Nissan,Nissan Altima,2021,67962,18499
+615,Mitsubishi,Mitsubishi Outlander Sport,2021,62036,18699
+616,Volkswagen,Volkswagen Jetta,2021,61403,18999
+617,Hyundai,Hyundai Sonata,2021,62020,19199
+618,Volkswagen,Volkswagen Jetta,2021,58545,19299
+619,Dodge,Dodge Journey,2020,63012,19299
+620,Chevrolet,Chevrolet Malibu,2021,63796,19499
+621,Dodge,Dodge Grand Caravan,2019,73575,19499
+622,Nissan,Nissan Rogue Sport,2020,79155,19799
+623,Nissan,Nissan Altima,2021,60535,20499
+624,Honda,Honda Civic Sedan,2019,37960,20999
+625,Toyota,Toyota C-HR,2019,55084,21999
+626,Kia,Kia Forte,2021,20675,22499
+627,Toyota,Toyota RAV4,2018,56705,23999
+628,Ford,Ford Edge,2020,65337,23999
+629,Chrysler,Chrysler Pacifica,2021,65525,25999
+630,Ford,Ford F-150,2019,63429,29999
+631,Chevrolet,Chevrolet Traverse,2021,61983,30499
+632,Chrysler,Chrysler Pacifica,2022,42825,38699
+633,Chevrolet,Chevrolet Tahoe,2021,73449,48499
+634,Nissan,Nissan Versa,2021,66740,16199
+635,Kia,Kia Sportage,2021,62880,18499
+636,Chevrolet,Chevrolet Malibu,2021,60510,18699
+637,Hyundai,Hyundai Sonata,2021,61656,19199
+638,Chevrolet,Chevrolet Malibu,2021,58500,19699
+639,Chevrolet,Chevrolet Equinox,2019,74115,19899
+640,Volkswagen,Volkswagen Passat,2021,61460,19999
+641,Ford,Ford Fusion,2020,61093,20499
+642,Chevrolet,Chevrolet Equinox,2021,61135,20499
+643,Chevrolet,Chevrolet Equinox,2021,61240,20499
+644,Nissan,Nissan Pathfinder,2020,64720,21999
+645,Kia,Kia Optima,2020,23175,22499
+646,Nissan,Nissan Altima,2020,23595,22499
+647,Nissan,Nissan Rogue,2021,60645,23199
+648,Nissan,Nissan Rogue Sport,2020,12099,23699
+649,Chrysler,Chrysler Pacifica,2020,67795,23699
+650,Toyota,Toyota RAV4,2021,63091,26499
+651,Toyota,Toyota RAV4,2020,65520,27999
+652,Nissan,Nissan Armada,2021,68630,34999
+653,Chevrolet,Chevrolet Silverado 1500,2021,61527,36999
+654,Nissan,Nissan Versa,2021,61345,16499
+655,Hyundai,Hyundai Elantra,2020,61315,16699
+656,Hyundai,Hyundai Elantra,2020,61585,16699
+657,Hyundai,Hyundai Elantra,2020,58190,16999
+658,Kia,Kia Soul,2021,58396,17699
+659,Ford,Ford Edge,2018,96096,17999
+660,Kia,Kia Optima,2020,61010,18299
+661,Chevrolet,Chevrolet Malibu,2021,61125,18699
+662,Nissan,Nissan Rogue Sport,2021,59060,19199
+663,Hyundai,Hyundai Sonata,2021,61010,19199
+664,Nissan,Nissan Rogue Sport,2020,76155,19899
+665,Nissan,Nissan Rogue Sport,2020,73325,19999
+666,Volkswagen,Volkswagen Tiguan,2021,66455,20499
+667,Jeep,Jeep Compass,2021,60790,20799
+668,Chevrolet,Chevrolet Equinox,2019,50625,20999
+669,Chevrolet,Chevrolet Equinox,2021,59530,20999
+670,Nissan,Nissan Rogue Sport,2020,43875,21999
+671,Chrysler,Chrysler Voyager,2021,66945,21999
+672,Toyota,Toyota Camry,2021,60885,22299
+673,Buick,Buick Envision,2019,58449,22499
+674,Nissan,Nissan NV200 Compact Cargo,2021,51233,25499
+675,Jeep,Jeep Cherokee,2019,35835,26499
+676,Chevrolet,Chevrolet Equinox,2020,24050,26999
+677,Jeep,Jeep Cherokee,2020,28169,27999
+678,RAM,RAM 1500 Classic,2020,61615,28199
+679,RAM,RAM 1500 Classic,2021,62815,28499
+680,RAM,RAM 1500 Classic,2021,63365,32999
+681,Kia,Kia EV6,2022,20880,46499
+682,Toyota,Toyota Corolla,2020,60331,17999
+683,Hyundai,Hyundai Sonata,2021,60736,18799
+684,Hyundai,Hyundai Accent,2020,59430,16199
+685,Nissan,Nissan Kicks,2020,71894,16499
+686,Hyundai,Hyundai Elantra,2020,60150,16699
+687,Hyundai,Hyundai Elantra,2020,62191,16699
+688,Hyundai,Hyundai Elantra,2020,62443,16699
+689,Hyundai,Hyundai Accent,2021,58628,16999
+690,Kia,Kia Forte,2021,61644,17499
+691,Chevrolet,Chevrolet Equinox,2019,60605,19199
+692,Nissan,Nissan Altima,2021,62700,19699
+693,Chevrolet,Chevrolet Trax,2020,31575,19999
+694,Chevrolet,Chevrolet Equinox,2021,60793,20499
+695,Kia,Kia K5,2021,60794,20699
+696,Kia,Kia Sportage,2019,61902,20999
+697,Jeep,Jeep Compass,2021,61572,21999
+698,Toyota,Toyota Camry,2020,73832,22999
+699,Hyundai,Hyundai Sonata,2021,3720,24999
+700,Jeep,Jeep Grand Cherokee,2018,65714,24999
+701,Ford,Ford Edge,2018,23182,25499
+702,Chrysler,Chrysler Pacifica,2021,70304,25499
+703,Chrysler,Chrysler Pacifica,2021,66086,25999
+704,Chrysler,Chrysler Pacifica,2021,66454,25999
+705,Ford,Ford F-150,2018,41411,27499
+706,Jeep,Jeep Grand Cherokee,2020,62761,28499
+707,Chevrolet,Chevrolet Traverse,2021,64196,30499
+708,GMC,GMC Acadia,2020,28417,31999
+709,Genesis,Genesis G80,2020,58749,32499
+710,Dodge,Dodge Durango,2021,63913,32999
+711,Ford,Ford F-150,2020,60574,33999
+712,Toyota,Toyota Tacoma 4WD,2021,61650,35799
+713,Acura,Acura RDX,2020,16657,37999
+714,Ford,Ford Transit Passenger Wagon,2021,70868,41299
+715,Kia,Kia Forte,2017,67117,12999
+716,Dodge,Dodge Grand Caravan,2018,97544,14999
+717,Hyundai,Hyundai Elantra,2019,63650,15799
+718,Hyundai,Hyundai Elantra,2019,62824,15999
+719,Nissan,Nissan Versa,2020,63545,15999
+720,Nissan,Nissan Versa,2021,72968,15999
+721,Hyundai,Hyundai Accent,2021,62869,16499
+722,Hyundai,Hyundai Accent,2020,64007,16999
+723,Volkswagen,Volkswagen Jetta,2019,64288,16999
+724,Chevrolet,Chevrolet Equinox,2018,63842,17499
+725,Hyundai,Hyundai Sonata,2019,75241,17499
+726,Nissan,Nissan Sentra,2021,63044,17999
+727,Mitsubishi,Mitsubishi Outlander Sport,2021,68635,17999
+728,Kia,Kia Forte,2021,63119,18499
+729,Dodge,Dodge Journey,2020,63212,18499
+730,Kia,Kia Optima,2020,66868,18499
+731,Volkswagen,Volkswagen Passat,2018,68000,18499
+732,Mitsubishi,Mitsubishi Outlander,2019,44921,18999
+733,Toyota,Toyota Corolla,2021,62993,18999
+734,Ford,Ford Fusion,2020,63482,18999
+735,Ford,Ford Ecosport,2020,63676,18999
+736,Hyundai,Hyundai Kona,2020,63829,18999
+737,Toyota,Toyota Corolla,2021,64654,18999
+738,Chevrolet,Chevrolet Malibu,2020,66364,18999
+739,Ford,Ford Ecosport,2020,62511,19499
+740,Hyundai,Hyundai Kona,2020,63909,19499
+741,Chevrolet,Chevrolet Malibu,2020,69800,19499
+742,Chevrolet,Chevrolet Trax,2021,71908,19499
+743,Chevrolet,Chevrolet Malibu,2019,57414,19999
+744,Chevrolet,Chevrolet Equinox,2019,63028,19999
+745,Volkswagen,Volkswagen Passat,2021,64436,19999
+746,Mazda,Mazda Mazda3 Sedan,2021,64923,19999
+747,Kia,Kia K5,2021,63621,20499
+748,Buick,Buick Encore,2019,29164,20999
+749,Nissan,Nissan Altima,2021,65537,20999
+750,Volkswagen,Volkswagen Tiguan,2021,66517,20999
+751,Nissan,Nissan Rogue,2020,66875,20999
+752,Kia,Kia Sportage,2021,67885,20999
+753,Mazda,Mazda Mazda6,2021,65442,21499
+754,Ford,Ford Fusion,2020,34148,21999
+755,Honda,Honda Accord Sedan,2021,46618,24499
+756,Chrysler,Chrysler Voyager,2021,63620,24999
+757,Kia,Kia Sorento,2021,68019,24999
+758,Dodge,Dodge Charger,2021,70036,24999
+759,Toyota,Toyota Sienna,2020,97941,26999
+760,Chevrolet,Chevrolet Express Cargo Van,2018,94752,28499
+761,Alfa Romeo,Alfa Romeo Stelvio,2019,19970,29499
+762,Toyota,Toyota Sienna,2021,90119,30999
+763,RAM,RAM 1500 Classic,2020,28359,31499
+764,Ford,Ford Explorer,2019,67901,31999
+765,Nissan,Nissan Sentra,2021,57380,18699
+766,Nissan,Nissan Sentra,2021,58575,18699
+767,Chevrolet,Chevrolet Malibu,2021,61186,18699
+768,Volkswagen,Volkswagen Jetta,2021,57873,19299
+769,Nissan,Nissan Altima,2021,59820,19699
+770,Nissan,Nissan Altima,2021,60453,19699
+771,Kia,Kia K5,2021,60090,20699
+772,Nissan,Nissan Altima,2021,60684,21299
+773,Chrysler,Chrysler Voyager,2021,69361,21699
+774,Subaru,Subaru Outback,2021,53418,26999
+775,Chevrolet,Chevrolet Traverse,2021,62373,32999
+776,Lexus,Lexus ES,2019,24848,38999
+777,Toyota,Toyota Tundra 4WD,2020,80383,41999
+778,Mercedes-Benz,Mercedes-Benz GLC,2020,40368,50999
+779,Nissan,Nissan Versa,2021,58876,16799
+780,Dodge,Dodge Journey,2019,69608,17499
+781,Nissan,Nissan Altima,2018,60201,17999
+782,Toyota,Toyota Corolla,2021,60275,18699
+783,Volkswagen,Volkswagen Golf,2021,61802,18999
+784,Ford,Ford Fusion,2019,54881,19499
+785,Nissan,Nissan Altima,2021,59728,19699
+786,Chevrolet,Chevrolet Malibu,2021,64047,19699
+787,Chevrolet,Chevrolet Equinox,2021,60597,20499
+788,Chevrolet,Chevrolet Trax,2020,15224,20999
+789,Chrysler,Chrysler Voyager,2021,76131,21299
+790,Toyota,Toyota Camry,2019,85600,21499
+791,GMC,GMC Terrain,2020,62164,23199
+792,Chevrolet,Chevrolet Equinox,2020,22316,23499
+793,Chevrolet,Chevrolet Equinox,2020,36864,23499
+794,Ford,Ford Fusion Hybrid,2020,9767,23799
+795,Hyundai,Hyundai Sonata,2020,12333,24999
+796,Nissan,Nissan Rogue,2020,27714,24999
+797,Toyota,Toyota RAV4,2019,49536,25999
+798,Chrysler,Chrysler Pacifica,2021,67233,25999
+799,RAM,RAM 1500 Classic,2019,61972,27499
+800,Toyota,Toyota Tacoma 2WD,2021,59825,29499
+801,Toyota,Toyota GR86,2023,12687,33999
+802,RAM,RAM 1500,2020,62717,36499
+803,GMC,GMC Sierra 2500HD,2022,13817,74999
+804,Ford,Ford Mustang,2021,60209,23999
+805,Volkswagen,Volkswagen Tiguan,2021,66347,21699
+806,Nissan,Nissan Versa,2021,61164,16499
+807,Volkswagen,Volkswagen Golf,2020,58866,18699
+808,Dodge,Dodge Journey,2020,59564,18999
+809,Chevrolet,Chevrolet Trax,2021,25264,19499
+810,Mazda,Mazda Mazda6,2021,60644,20999
+811,Hyundai,Hyundai Sonata,2019,61392,20999
+812,Nissan,Nissan Altima,2021,37677,21999
+813,Nissan,Nissan Rogue,2021,64009,22999
+814,Jeep,Jeep Renegade,2019,29255,23999
+815,Jeep,Jeep Cherokee,2019,19529,24499
+816,GMC,GMC Terrain,2021,59634,24699
+817,Dodge,Dodge Charger,2021,58901,25299
+818,Toyota,Toyota RAV4,2021,64815,26499
+819,Jeep,Jeep Grand Cherokee,2021,60466,29999
+820,Jeep,Jeep Grand Cherokee,2021,60914,29999
+821,Toyota,Toyota RAV4,2019,36281,31999
+822,Toyota,Toyota 4Runner,2021,64558,33499
+823,Lexus,Lexus ES,2022,32496,41499
+824,Kia,Kia Forte,2017,74530,14499
+825,Nissan,Nissan Sentra,2019,63646,15469
+826,Chevrolet,Chevrolet Trax,2020,60499,16899
+827,Nissan,Nissan Kicks,2021,62754,17979
+828,Nissan,Nissan Kicks,2020,61575,17993
+829,Kia,Kia Soul,2021,61521,17995
+830,Kia,Kia Soul,2021,62398,17995
+831,Hyundai,Hyundai Kona,2020,66427,18499
+832,Mitsubishi,Mitsubishi Outlander Sport,2020,69252,19498
+833,Toyota,Toyota Corolla,2020,64300,19499
+834,Dodge,Dodge Journey,2020,61356,19989
+835,Chevrolet,Chevrolet Malibu,2021,64453,19989
+836,Volkswagen,Volkswagen Passat,2020,64942,19989
+837,Chevrolet,Chevrolet Malibu,2021,62890,19999
+838,Nissan,Nissan Rogue Sport,2021,61668,20488
+839,Nissan,Nissan Rogue Sport,2021,65110,20795
+840,Chevrolet,Chevrolet Equinox,2021,66274,20899
+841,Jeep,Jeep Compass,2020,64030,20994
+842,Nissan,Nissan Rogue Sport,2021,48440,20995
+843,Chevrolet,Chevrolet Equinox,2021,63516,20999
+844,Chevrolet,Chevrolet Equinox,2021,63639,20999
+845,Nissan,Nissan Rogue,2020,65163,20999
+846,Hyundai,Hyundai Ioniq Hybrid,2021,70383,20999
+847,Ford,Ford Escape,2020,67763,21398
+848,Nissan,Nissan Altima,2021,64026,21499
+849,Nissan,Nissan Altima,2021,62316,21599
+850,Nissan,Nissan Altima,2021,67963,21899
+851,Mazda,Mazda Mazda CX-5,2021,69455,21899
+852,Chevrolet,Chevrolet Equinox,2021,63776,21996
+853,Chevrolet,Chevrolet Equinox,2021,64788,21996
+854,Chevrolet,Chevrolet Equinox,2021,65147,21996
+855,Jeep,Jeep Compass,2021,64004,21999
+856,Chevrolet,Chevrolet Equinox,2021,67824,21999
+857,Chevrolet,Chevrolet Equinox,2021,62974,22498
+858,Chevrolet,Chevrolet Equinox,2021,63414,22498
+859,Jeep,Jeep Compass,2021,64474,22898
+860,Toyota,Toyota Camry,2021,60741,22989
+861,Buick,Buick Envision,2018,58503,23499
+862,Jeep,Jeep Cherokee,2019,62617,23799
+863,Nissan,Nissan Rogue,2021,60878,23995
+864,Honda,Honda HR-V,2021,47770,24699
+865,Infiniti,Infiniti QX60,2019,61043,25499
+866,Nissan,Nissan Maxima,2022,39061,25885
+867,Ford,Ford Escape,2022,37561,25999
+868,Infiniti,Infiniti Q50,2021,34058,26999
+869,Ford,Ford Escape,2021,35908,28989
+870,Ford,Ford Explorer,2020,61837,28998
+871,Volkswagen,Volkswagen Atlas,2021,62204,28999
+872,RAM,RAM ProMaster Cargo Van,2020,61260,30899
+873,GMC,GMC Acadia,2019,61855,31499
+874,Ford,Ford Explorer,2022,44041,34799
+875,GMC,GMC Canyon,2021,62534,34999
+876,Nissan,Nissan Armada,2021,64753,34999
+877,Lexus,Lexus RX,2019,66264,34999
+878,Lexus,Lexus ES,2020,18303,38839
+879,Land Rover,Land Rover Range Rover Sport,2022,27797,72999
+880,Hyundai,Hyundai Accent,2020,63531,16499
+881,Hyundai,Hyundai Elantra,2020,67887,16499
+882,Hyundai,Hyundai Elantra,2020,68010,16499
+883,Kia,Kia Forte,2020,68472,16999
+884,Kia,Kia Optima,2020,61704,18499
+885,Kia,Kia Optima,2020,62535,18499
+886,Kia,Kia Sportage,2019,63152,18499
+887,Dodge,Dodge Journey,2020,60452,18999
+888,Nissan,Nissan Versa,2021,29637,19799
+889,Buick,Buick Encore,2019,50535,19999
+890,Ford,Ford Fusion,2020,45210,20999
+891,Kia,Kia Sportage,2021,51150,21999
+892,Mazda,Mazda Mazda CX-5,2021,60667,23799
+893,Chevrolet,Chevrolet Trax,2020,17289,23999
+894,Ford,Ford Ecosport,2021,20100,24999
+895,Chevrolet,Chevrolet Equinox,2022,27636,24999
+896,Hyundai,Hyundai Kona,2021,44828,24999
+897,Jeep,Jeep Compass,2020,52280,24999
+898,Nissan,Nissan Kicks,2021,14105,26499
+899,Mazda,Mazda Mazda3 Hatchback,2020,22951,26499
+900,Jeep,Jeep Renegade,2019,22076,26999
+901,Honda,Honda CR-V,2020,61334,27999
+902,Toyota,Toyota RAV4,2020,61889,29999
+903,BMW,BMW X3,2019,62015,29999
+904,Volkswagen,Volkswagen Atlas Cross Sport,2020,16800,37999
+905,Ford,Ford F-150,2020,59369,44999
+906,Maserati,Maserati Quattroporte,2022,13326,78999
+907,Nissan,Nissan Versa,2021,60482,16489
+908,Nissan,Nissan Kicks,2020,63983,16987
+909,Nissan,Nissan Kicks,2020,64327,17989
+910,Hyundai,Hyundai Kona,2021,62347,17994
+911,Kia,Kia Soul,2021,62296,17995
+912,Chevrolet,Chevrolet Malibu,2019,68182,18489
+913,Chevrolet,Chevrolet Trax,2021,60850,18499
+914,Nissan,Nissan Sentra,2021,62705,18735
+915,Dodge,Dodge Grand Caravan,2019,78955,18899
+916,Hyundai,Hyundai Kona,2021,67560,18973
+917,Hyundai,Hyundai Kona,2021,61938,18974
+918,Kia,Kia Forte,2021,37519,18989
+919,Nissan,Nissan Altima,2020,62152,18994
+920,Hyundai,Hyundai Sonata,2021,63505,18999
+921,Kia,Kia K5,2021,71470,18999
+922,Toyota,Toyota Corolla,2020,69130,19399
+923,Nissan,Nissan Altima,2020,61751,19479
+924,Chevrolet,Chevrolet Trax,2021,58651,19499
+925,Chevrolet,Chevrolet Trax,2021,63253,19499
+926,Chevrolet,Chevrolet Malibu,2021,64280,19597
+927,Chevrolet,Chevrolet Malibu,2021,68091,19597
+928,Nissan,Nissan Pathfinder,2018,81232,19989
+929,Nissan,Nissan Rogue Sport,2021,71750,19995
+930,Chevrolet,Chevrolet Malibu,2021,62484,19999
+931,Chevrolet,Chevrolet Malibu,2021,65572,19999
+932,Chevrolet,Chevrolet Malibu,2021,71304,19999
+933,Nissan,Nissan Rogue Sport,2021,60798,20794
+934,Nissan,Nissan Rogue Sport,2021,61529,20795
+935,Chevrolet,Chevrolet Equinox,2021,64720,20899
+936,Nissan,Nissan Rogue Sport,2021,47888,20994
+937,Nissan,Nissan Kicks,2022,29861,20997
+938,Chevrolet,Chevrolet Equinox,2021,60618,20999
+939,Chevrolet,Chevrolet Equinox,2021,61999,20999
+940,Nissan,Nissan Rogue,2020,62465,21499
+941,Toyota,Toyota Camry,2020,63953,21976
+942,Nissan,Nissan Kicks,2022,31785,21989
+943,Chevrolet,Chevrolet Equinox,2021,64532,21996
+944,Chevrolet,Chevrolet Equinox,2021,64537,21996
+945,Chevrolet,Chevrolet Equinox,2021,64787,21996
+946,Chevrolet,Chevrolet Equinox,2021,65596,21996
+947,Chevrolet,Chevrolet Equinox,2021,65728,21996
+948,Nissan,Nissan Altima,2021,62323,21999
+949,Nissan,Nissan Altima,2021,63638,21999
+950,Chevrolet,Chevrolet Equinox,2021,63161,22498
+951,Nissan,Nissan Altima,2021,66673,22499
+952,Toyota,Toyota C-HR,2020,54337,22989
+953,Jeep,Jeep Cherokee,2019,64556,22996
+954,Chevrolet,Chevrolet Equinox,2019,52105,23438
+955,Kia,Kia Sorento,2021,51751,23979
+956,Hyundai,Hyundai Santa Fe,2021,49762,23999
+957,Chrysler,Chrysler Voyager,2021,63322,23999
+958,Chevrolet,Chevrolet Equinox,2019,63117,24485
+959,Jeep,Jeep Compass,2021,64146,24989
+960,Chevrolet,Chevrolet Impala,2019,46178,24999
+961,Ford,Ford Escape,2022,27550,26989
+962,Ford,Ford Edge,2022,45135,26999
+963,Toyota,Toyota RAV4,2020,65560,26999
+964,Mercedes-Benz,Mercedes-Benz A-Class,2019,40036,27944
+965,Chevrolet,Chevrolet Colorado,2020,67565,27999
+966,Nissan,Nissan Rogue,2021,24635,29497
+967,Mazda,Mazda Mazda CX-9,2021,63392,30497
+968,Chrysler,Chrysler Pacifica,2021,69588,30499
+969,Honda,Honda CR-V Hybrid,2022,42092,31499
+970,Chevrolet,Chevrolet Silverado 1500,2020,62309,34499
+971,Nissan,Nissan Armada,2021,59474,35999
+972,Acura,Acura MDX,2020,36240,36999
+973,Ford,Ford F-150,2022,19125,47854
+974,Nissan,Nissan Versa,2021,61291,16489
+975,Nissan,Nissan Versa,2021,65330,16489
+976,Nissan,Nissan Rogue Sport,2021,61904,20795
+977,Kia,Kia Sportage,2021,63025,20899
+978,Chevrolet,Chevrolet Equinox,2021,66990,20899
+979,Ford,Ford Escape,2020,61549,21996
+980,Chevrolet,Chevrolet Equinox,2021,68377,21997
+981,Mitsubishi,Mitsubishi Outlander Sport,2022,37988,22499
+982,Chrysler,Chrysler Voyager,2021,65603,23999
+983,Volkswagen,Volkswagen Atlas,2021,63180,28999
+984,Volkswagen,Volkswagen Atlas,2021,63614,28999
+985,Nissan,Nissan Sentra,2019,86674,15199
+986,Nissan,Nissan Versa,2021,60464,16499
+987,Nissan,Nissan Versa,2021,61225,16499
+988,Hyundai,Hyundai Accent,2021,62067,16499
+989,Hyundai,Hyundai Elantra,2020,62129,16699
+990,Ford,Ford Fusion,2019,61997,17499
+991,Honda,Honda CR-V,2015,97069,17499
+992,Chevrolet,Chevrolet Malibu,2021,60450,18999
+993,Toyota,Toyota Corolla,2021,60625,18999
+994,Toyota,Toyota Corolla,2021,61298,18999
+995,Nissan,Nissan Sentra,2021,60816,19199
+996,Kia,Kia Optima,2020,66000,19499
+997,Mazda,Mazda Mazda CX-30,2021,68261,19999
+998,Nissan,Nissan Rogue,2019,74233,19999
+999,Chevrolet,Chevrolet Equinox,2021,62018,20499
+1000,Kia,Kia K5,2021,65068,20499
+1001,Chevrolet,Chevrolet Equinox,2020,60956,20699
+1002,Nissan,Nissan Altima,2021,61302,21499
+1003,Nissan,Nissan Altima,2021,37616,21999
+1004,Jeep,Jeep Cherokee,2019,61397,21999
+1005,Jeep,Jeep Compass,2021,63941,21999
+1006,Jeep,Jeep Cherokee,2019,60558,22499
+1007,Nissan,Nissan Rogue,2021,62700,23199
+1008,Hyundai,Hyundai Tucson,2019,62466,23499
+1009,Chevrolet,Chevrolet Equinox,2021,48045,23999
+1010,Chrysler,Chrysler 300,2021,60993,24699
+1011,RAM,RAM 1500 Classic,2021,60465,28499
+1012,Chevrolet,Chevrolet Silverado 1500,2016,51565,28999
+1013,Chevrolet,Chevrolet Silverado 1500,2017,57199,28999
+1014,Chevrolet,Chevrolet Colorado,2021,60188,29999
+1015,Toyota,Toyota RAV4,2021,8455,30999
+1016,Ford,Ford Ranger,2020,60246,31999
+1017,Chevrolet,Chevrolet Traverse,2020,32546,32999
+1018,Dodge,Dodge Durango,2021,62333,32999
+1019,Ford,Ford Transit Cargo Van,2020,61323,37999
+1020,RAM,RAM 2500,2022,50829,42999
+1021,Chevrolet,Chevrolet Silverado 1500,2021,26416,48499
+1022,Chevrolet,Chevrolet Spark,2021,49867,15999
+1023,Kia,Kia Forte,2021,65544,17499
+1024,Kia,Kia Forte,2021,66596,17499
+1025,Nissan,Nissan Kicks,2020,61500,17999
+1026,Kia,Kia Optima,2020,63130,18499
+1027,Toyota,Toyota Corolla,2021,65165,18799
+1028,Mazda,Mazda Mazda3 Sedan,2021,67209,18999
+1029,Nissan,Nissan Versa,2021,23912,19999
+1030,Ford,Ford Ecosport,2021,28408,19999
+1031,Buick,Buick Encore,2019,57354,19999
+1032,Ford,Ford Ecosport,2020,53665,20999
+1033,Nissan,Nissan Rogue,2021,65800,22499
+1034,Nissan,Nissan Murano,2021,62900,23999
+1035,Nissan,Nissan Rogue Sport,2022,28190,24499
+1036,Nissan,Nissan Rogue,2021,63594,24499
+1037,Nissan,Nissan Rogue Sport,2022,26442,24999
+1038,Ford,Ford Escape,2022,29301,24999
+1039,Toyota,Toyota Camry,2022,36070,24999
+1040,Dodge,Dodge Durango,2018,61375,24999
+1041,Audi,Audi Q3,2020,61677,24999
+1042,Chrysler,Chrysler 300,2021,62900,24999
+1043,Ford,Ford Mustang,2021,64767,24999
+1044,Ford,Ford Mustang,2021,64779,24999
+1045,Jeep,Jeep Grand Cherokee,2019,64796,24999
+1046,GMC,GMC Terrain,2020,48301,25999
+1047,Chevrolet,Chevrolet Traverse,2020,74065,26999
+1048,Jeep,Jeep Renegade,2020,22086,27599
+1049,Mazda,Mazda Mazda MX-5 Miata,2021,18157,27999
+1050,Nissan,Nissan Maxima,2022,30525,27999
+1051,Acura,Acura RDX,2019,60485,28499
+1052,Cadillac,Cadillac XT5,2021,63611,29799
+1053,Toyota,Toyota Highlander,2019,58786,29999
+1054,Dodge,Dodge Durango,2020,77821,29999
+1055,GMC,GMC Acadia,2020,63093,31899
+1056,RAM,RAM 1500,2019,60913,32499
+1057,Toyota,Toyota Tacoma 4WD,2021,61116,35999
+1058,Volkswagen,Volkswagen Atlas,2021,31070,45499
+1059,Nissan,Nissan Versa,2021,64451,16499
+1060,Mitsubishi,Mitsubishi Outlander Sport,2021,65168,16999
+1061,Chevrolet,Chevrolet Impala,2018,94731,16999
+1062,Chevrolet,Chevrolet Trax,2019,52221,17499
+1063,Mitsubishi,Mitsubishi Outlander Sport,2021,59264,17499
+1064,Chevrolet,Chevrolet Malibu,2021,66978,17999
+1065,Nissan,Nissan Rogue Sport,2021,68822,17999
+1066,Hyundai,Hyundai Kona,2021,60964,18499
+1067,Hyundai,Hyundai Santa Fe Sport,2018,64523,18499
+1068,Chevrolet,Chevrolet Malibu,2021,65510,18499
+1069,Toyota,Toyota Corolla,2021,66829,18499
+1070,Chevrolet,Chevrolet Malibu,2021,68500,18499
+1071,Chevrolet,Chevrolet Malibu,2021,69362,18499
+1072,Nissan,Nissan Altima,2021,71263,18499
+1073,Jeep,Jeep Compass,2019,77615,18499
+1074,GMC,GMC Terrain,2019,62616,18999
+1075,Toyota,Toyota Corolla,2021,65747,18999
+1076,Ford,Ford Escape,2020,68574,18999
+1077,Chevrolet,Chevrolet Equinox,2021,63046,19199
+1078,Nissan,Nissan Versa,2021,24517,19999
+1079,Nissan,Nissan Versa,2021,28105,19999
+1080,Ford,Ford Ecosport,2018,39669,19999
+1081,Chevrolet,Chevrolet Equinox,2021,60315,19999
+1082,Ford,Ford Escape,2018,62136,19999
+1083,Nissan,Nissan Rogue,2019,63604,19999
+1084,Jeep,Jeep Compass,2018,64346,19999
+1085,Nissan,Nissan Altima,2021,64791,19999
+1086,Mazda,Mazda Mazda CX-30,2021,67435,19999
+1087,Ford,Ford Fusion,2020,93914,19999
+1088,Kia,Kia K5,2021,64393,20499
+1089,Nissan,Nissan Kicks,2022,22513,20999
+1090,Jeep,Jeep Renegade,2020,61873,21499
+1091,Volkswagen,Volkswagen Tiguan,2021,66837,21499
+1092,Nissan,Nissan Rogue,2018,46644,21699
+1093,Chevrolet,Chevrolet Trax,2020,19056,22999
+1094,Nissan,Nissan Kicks,2022,30400,22999
+1095,Nissan,Nissan Rogue,2021,71363,22999
+1096,Honda,Honda CR-V,2018,64670,23499
+1097,Jeep,Jeep Renegade,2021,29327,23999
+1098,Nissan,Nissan Rogue,2021,64436,23999
+1099,Ford,Ford Mustang,2021,60587,24999
+1100,Ford,Ford Mustang,2021,64348,24999
+1101,Honda,Honda HR-V,2022,22929,25999
+1102,Honda,Honda HR-V,2022,30921,25999
+1103,BMW,BMW 2 Series,2021,58608,25999
+1104,BMW,BMW 3 Series,2020,68237,26999
+1105,Chevrolet,Chevrolet Traverse,2019,60244,29499
+1106,Ford,Ford F-150,2018,60743,29499
+1107,Buick,Buick Envision,2020,25334,29999
+1108,Cadillac,Cadillac XT5,2021,58233,29999
+1109,Audi,Audi A6,2020,59092,34499
+1110,Toyota,Toyota 4Runner,2019,62286,38799
+1111,Toyota,Toyota Tundra 4WD,2019,62618,40999
+1112,Volkswagen,Volkswagen Atlas,2021,30815,43999
+1113,RAM,RAM 2500,2020,57556,44999
+1114,Ford,Ford Expedition MAX,2021,62824,45999
+1115,Hyundai,Hyundai Elantra,2020,65958,16999
+1116,Kia,Kia Sportage,2021,64612,18999
+1117,Nissan,Nissan Rogue Sport,2020,83680,18999
+1118,Nissan,Nissan Versa,2021,18963,19999
+1119,Ford,Ford Fusion,2020,57130,21999
+1120,Chevrolet,Chevrolet Equinox,2021,44369,23999
+1121,Dodge,Dodge Durango,2018,78443,23999
+1122,Nissan,Nissan Rogue Sport,2022,27750,24499
+1123,Ford,Ford Mustang,2021,65159,24499
+1124,GMC,GMC Terrain,2020,34175,24999
+1125,Nissan,Nissan Murano,2019,60688,24999
+1126,Infiniti,Infiniti Q50,2021,60749,24999
+1127,Honda,Honda CR-V,2018,67274,24999
+1128,Honda,Honda Passport,2019,71825,24999
+1129,Ford,Ford Edge,2021,75890,26999
+1130,Ford,Ford Edge,2019,31000,27499
+1131,BMW,BMW 3 Series,2020,61504,27499
+1132,Hyundai,Hyundai Sonata,2021,28680,27999
+1133,Lincoln,Lincoln Lincoln MKZ,2020,56448,28499
+1134,Jeep,Jeep Grand Cherokee,2020,61773,29999
+1135,Ford,Ford F-150,2020,73655,29999
+1136,Audi,Audi A6,2020,72100,30999
+1137,Chevrolet,Chevrolet Silverado 1500,2019,64941,32999
+1138,Ford,Ford F-150,2021,56440,33999
+1139,Chevrolet,Chevrolet Colorado,2022,18939,37999
+1140,GMC,GMC Yukon,2018,76922,38999
+1141,Chevrolet,Chevrolet Silverado 1500,2019,60530,39999
+1142,Kia,Kia Soul,2021,67868,16999
+1143,Kia,Kia Forte,2020,69756,16999
+1144,Nissan,Nissan Versa,2021,54450,17499
+1145,Kia,Kia Soul,2021,63338,17499
+1146,Kia,Kia Forte,2021,66333,17499
+1147,Ford,Ford Fusion,2020,64930,18499
+1148,Hyundai,Hyundai Kona,2021,61905,18999
+1149,Jeep,Jeep Compass,2018,54982,19999
+1150,Mitsubishi,Mitsubishi Outlander,2020,61271,20999
+1151,Chevrolet,Chevrolet Trax,2020,22452,21499
+1152,Chrysler,Chrysler Voyager,2021,67087,21999
+1153,Ford,Ford Ecosport,2020,10927,24999
+1154,Jeep,Jeep Cherokee,2021,43675,27999
+1155,Mazda,Mazda Mazda CX-9,2021,66300,27999
+1156,Jeep,Jeep Grand Cherokee,2020,60325,29999
+1157,Buick,Buick Enclave,2019,60484,32499
+1158,Chevrolet,Chevrolet Tahoe,2021,65501,49499
+1159,GMC,GMC Sierra 1500,2020,58443,50999
+1160,Hyundai,Hyundai Elantra,2018,57158,16599
+1161,Kia,Kia Soul,2020,63879,16999
+1162,Hyundai,Hyundai Kona,2020,66112,17999
+1163,Kia,Kia Optima,2020,67536,18299
+1164,Kia,Kia Optima,2020,64327,18499
+1165,Ford,Ford Fusion,2020,56967,19999
+1166,Jeep,Jeep Cherokee,2020,65080,20999
+1167,Toyota,Toyota Camry,2020,39226,22999
+1168,GMC,GMC Terrain,2020,65365,23399
+1169,GMC,GMC Terrain,2021,63750,24499
+1170,Jeep,Jeep Cherokee,2017,43580,24999
+1171,Ford,Ford Escape,2020,58100,24999
+1172,Volkswagen,Volkswagen Atlas,2019,61310,24999
+1173,Chevrolet,Chevrolet Blazer,2021,62775,24999
+1174,Ford,Ford Mustang,2021,63286,24999
+1175,Honda,Honda HR-V,2019,31182,25999
+1176,Chrysler,Chrysler Pacifica,2020,68052,26499
+1177,Chevrolet,Chevrolet Equinox,2022,23650,26999
+1178,Honda,Honda Accord Sedan,2019,40035,26999
+1179,Nissan,Nissan Kicks,2021,11302,27499
+1180,Chevrolet,Chevrolet Traverse,2021,74784,27999
+1181,Audi,Audi A5 Sportback,2021,58372,29999
+1182,Dodge,Dodge Durango,2020,75837,29999
+1183,Toyota,Toyota Tacoma,2016,73601,31999
+1184,RAM,RAM 1500,2019,63275,34499
+1185,GMC,GMC Sierra 1500,2021,64557,38799
+1186,GMC,GMC Yukon,2020,64327,40499
+1187,Chevrolet,Chevrolet Silverado 1500,2020,38510,40999
+1188,Volvo,Volvo XC90,2021,31032,42999
+1189,Kia,Kia Telluride,2021,23303,44499
+1190,Ford,Ford Transit Passenger Wagon,2021,67208,47499
+1191,Hyundai,Hyundai Elantra,2018,39087,17499
+1192,Kia,Kia Optima,2019,61588,17999
+1193,Kia,Kia Optima,2020,65072,18299
+1194,Nissan,Nissan Altima,2020,79347,18499
+1195,Buick,Buick Encore,2019,61148,19699
+1196,Ford,Ford Ecosport,2020,61831,21599
+1197,Nissan,Nissan Murano,2021,66506,22499
+1198,Toyota,Toyota Camry,2018,46463,22699
+1199,Ford,Ford Mustang,2020,61399,23499
+1200,Ford,Ford Escape,2022,27895,24999
+1201,Mazda,Mazda Mazda3 Hatchback,2019,42762,24999
+1202,Honda,Honda HR-V,2022,32614,25599
+1203,Mazda,Mazda Mazda CX-5,2020,29815,26999
+1204,GMC,GMC Terrain,2020,31770,27799
+1205,Honda,Honda Accord Sedan,2021,45773,28499
+1206,Honda,Honda Accord Sedan,2020,36761,28999
+1207,Cadillac,Cadillac XT4,2021,60495,28999
+1208,Lincoln,Lincoln Nautilus,2019,61464,28999
+1209,Kia,Kia Optima,2020,24039,29999
+1210,Land Rover,Land Rover Discovery,2020,67858,30999
+1211,Jeep,Jeep Grand Cherokee,2019,61620,32499
+1212,Toyota,Toyota Highlander,2020,81325,33699
+1213,Chevrolet,Chevrolet Silverado 1500,2020,62552,34999
+1214,Chevrolet,Chevrolet Silverado 1500,2020,50658,43999
+1215,Volvo,Volvo XC60,2023,5417,44999
+1216,Chevrolet,Chevrolet Tahoe,2021,64790,49999
+1217,Rivian,Rivian R1t,2022,13193,74999
+1218,Nissan,Nissan Sentra,2019,76900,14999
+1219,Nissan,Nissan Versa,2021,60310,16499
+1220,Nissan,Nissan Versa,2021,61046,16499
+1221,Nissan,Nissan Kicks,2021,56427,18299
+1222,Dodge,Dodge Journey,2020,61699,18699
+1223,Toyota,Toyota Corolla,2021,60347,18999
+1224,Toyota,Toyota Corolla,2021,61813,18999
+1225,Toyota,Toyota Corolla,2021,58311,19299
+1226,Nissan,Nissan Altima,2021,71782,19499
+1227,Hyundai,Hyundai Sonata,2021,72659,19799
+1228,Nissan,Nissan Altima,2021,56933,19999
+1229,Nissan,Nissan Altima,2021,59743,19999
+1230,Chevrolet,Chevrolet Malibu,2018,34905,20999
+1231,Chevrolet,Chevrolet Equinox,2021,56323,20999
+1232,Mazda,Mazda Mazda6,2021,61818,20999
+1233,Nissan,Nissan Altima,2021,56226,21299
+1234,Hyundai,Hyundai Venue,2021,25536,22499
+1235,Toyota,Toyota Camry,2021,57488,22699
+1236,Nissan,Nissan Rogue,2021,56674,22999
+1237,Toyota,Toyota RAV4,2021,72086,23499
+1238,Chevrolet,Chevrolet Equinox,2019,38622,23999
+1239,Nissan,Nissan Kicks,2020,10160,25499
+1240,Honda,Honda Civic Sedan,2020,12571,25499
+1241,Chrysler,Chrysler Pacifica,2021,65365,25999
+1242,BMW,BMW 2 Series,2021,54772,26499
+1243,Nissan,Nissan Rogue,2020,31052,27499
+1244,Lincoln,Lincoln Nautilus,2019,54759,27999
+1245,Jeep,Jeep Grand Cherokee,2020,62974,28499
+1246,Alfa Romeo,Alfa Romeo Stelvio,2019,35816,28999
+1247,Nissan,Nissan Rogue,2021,16904,29499
+1248,RAM,RAM 1500 Classic,2021,56183,29999
+1249,BMW,BMW 5 Series,2021,58758,29999
+1250,Chevrolet,Chevrolet Traverse,2020,22735,30499
+1251,Nissan,Nissan Armada,2021,59639,32999
+1252,GMC,GMC Canyon,2020,55877,33499
+1253,Alfa Romeo,Alfa Romeo Stelvio,2021,23473,34999
+1254,RAM,RAM ProMaster Cargo Van,2021,69330,35499
+1255,Toyota,Toyota Tacoma 4WD,2021,55621,36299
+1256,Toyota,Toyota Avalon,2020,11820,37999
+1257,Ford,Ford Expedition,2020,61518,41999
+1258,Ford,Ford F-150,2021,56705,43999
+1259,Lexus,Lexus RX,2021,23816,44499
+1260,Audi,Audi Q7,2019,18591,46499
+1261,Chevrolet,Chevrolet Tahoe,2021,63883,49499
+1262,GMC,GMC Yukon XL,2021,64582,61999
+1263,Chevrolet,Chevrolet Spark,2021,65529,15299
+1264,Hyundai,Hyundai Accent,2020,62787,16999
+1265,Hyundai,Hyundai Accent,2020,64509,16999
+1266,Hyundai,Hyundai Accent,2020,66473,16999
+1267,Nissan,Nissan Rogue Sport,2021,69205,18999
+1268,Nissan,Nissan Kicks,2021,64134,19499
+1269,Ford,Ford Ecosport,2020,61595,19799
+1270,Hyundai,Hyundai Kona,2020,65249,19999
+1271,Toyota,Toyota Corolla,2021,62478,20499
+1272,Nissan,Nissan Altima,2021,61006,20699
+1273,Mitsubishi,Mitsubishi Outlander Sport,2020,60584,20799
+1274,Mazda,Mazda Mazda CX-30,2021,66216,20799
+1275,Nissan,Nissan Rogue Sport,2021,64045,20999
+1276,Mitsubishi,Mitsubishi Outlander,2020,64959,21799
+1277,Mitsubishi,Mitsubishi Outlander,2020,66852,21799
+1278,Mitsubishi,Mitsubishi Outlander,2020,62192,21999
+1279,Jeep,Jeep Compass,2021,62261,23499
+1280,Chrysler,Chrysler Voyager,2021,74593,23499
+1281,Chrysler,Chrysler Voyager,2021,76678,23499
+1282,Nissan,Nissan Murano,2021,62636,23999
+1283,Volkswagen,Volkswagen Tiguan,2021,64274,24999
+1284,Toyota,Toyota Camry,2021,62603,25499
+1285,GMC,GMC Terrain,2021,62983,26299
+1286,Nissan,Nissan Rogue,2021,67115,26599
+1287,Nissan,Nissan Rogue,2021,61361,26799
+1288,Cadillac,Cadillac XT4,2020,64821,26799
+1289,Mazda,Mazda Mazda CX-5,2021,72493,26999
+1290,Chrysler,Chrysler Pacifica,2021,68316,29499
+1291,Chevrolet,Chevrolet Blazer,2021,60520,29799
+1292,Volkswagen,Volkswagen Atlas,2021,59629,29999
+1293,Ford,Ford Explorer,2019,60997,29999
+1294,Audi,Audi Q5,2021,59207,30799
+1295,Nissan,Nissan Armada,2020,77777,30799
+1296,Volvo,Volvo V60 Cross Country,2020,61275,32499
+1297,Chevrolet,Chevrolet Traverse,2021,60641,32799
+1298,Chrysler,Chrysler Pacifica,2021,61998,36999
+1299,Chevrolet,Chevrolet Tahoe,2020,78824,39799
+1300,Lincoln,Lincoln Aviator,2021,64601,39999
+1301,Jeep,Jeep Wrangler Unlimited,2020,39255,42999
+1302,Hyundai,Hyundai Palisade,2022,15387,49499
+1303,GMC,GMC Yukon XL,2021,76947,50799
+1304,Chrysler,Chrysler Voyager,2021,71767,23499
+1305,Ford,Ford Escape,2018,56520,17499
+1306,Kia,Kia Soul,2020,37722,17999
+1307,Kia,Kia Forte,2021,58853,17999
+1308,Chevrolet,Chevrolet Trax,2021,58878,17999
+1309,Nissan,Nissan Kicks,2021,58908,18299
+1310,Ford,Ford Escape,2018,64626,18499
+1311,Nissan,Nissan Sentra,2021,55919,18999
+1312,Volkswagen,Volkswagen Jetta,2020,57771,18999
+1313,Chevrolet,Chevrolet Malibu,2021,59234,18999
+1314,Toyota,Toyota Corolla,2021,63417,18999
+1315,Hyundai,Hyundai Sonata,2021,55039,19499
+1316,Mitsubishi,Mitsubishi Outlander,2020,56802,20299
+1317,Kia,Kia K5,2021,57796,20999
+1318,Kia,Kia K5,2021,58521,20999
+1319,Nissan,Nissan Maxima,2020,61670,21199
+1320,Toyota,Toyota Camry,2021,57691,22699
+1321,Toyota,Toyota Camry,2021,57199,22999
+1322,GMC,GMC Terrain,2021,56363,24499
+1323,Audi,Audi Q3,2021,56628,25499
+1324,Jeep,Jeep Renegade,2020,17315,25899
+1325,Volkswagen,Volkswagen Tiguan,2020,16340,27999
+1326,Chevrolet,Chevrolet Equinox,2019,15889,29499
+1327,BMW,BMW X1,2020,41202,29999
+1328,Chevrolet,Chevrolet Traverse,2020,29302,31999
+1329,Mazda,Mazda Mazda CX-9,2020,43054,31999
+1330,Ford,Ford Expedition,2019,90309,32999
+1331,Hyundai,Hyundai Accent,2020,55748,16199
+1332,Nissan,Nissan Versa,2021,55809,16799
+1333,Hyundai,Hyundai Kona,2020,65916,16999
+1334,Mitsubishi,Mitsubishi Outlander Sport,2020,59857,17299
+1335,Nissan,Nissan Kicks,2021,60934,17999
+1336,Chevrolet,Chevrolet Malibu,2019,76464,17999
+1337,Nissan,Nissan Rogue Sport,2021,57022,18499
+1338,Nissan,Nissan Rogue Sport,2021,62478,18799
+1339,Nissan,Nissan Sentra,2021,55251,18999
+1340,Nissan,Nissan Sentra,2021,55751,18999
+1341,Mazda,Mazda Mazda3 Sedan,2020,59858,18999
+1342,Toyota,Toyota Corolla,2021,60688,18999
+1343,Nissan,Nissan Rogue Sport,2021,55523,19199
+1344,Ford,Ford Fusion,2019,29171,19499
+1345,Hyundai,Hyundai Sonata,2021,55920,19499
+1346,Nissan,Nissan Murano,2018,61313,19499
+1347,Mitsubishi,Mitsubishi Outlander Sport,2021,44266,19699
+1348,Dodge,Dodge Journey,2020,58329,19699
+1349,Chevrolet,Chevrolet Malibu,2021,58973,20199
+1350,Mazda,Mazda Mazda CX-30,2021,61434,20299
+1351,Chevrolet,Chevrolet Equinox,2021,55613,20999
+1352,Kia,Kia Optima,2019,27943,21499
+1353,Chevrolet,Chevrolet Trax,2020,11599,21999
+1354,Toyota,Toyota Camry,2021,57969,22699
+1355,Ford,Ford Escape,2020,19391,22899
+1356,Hyundai,Hyundai Santa Fe,2020,65775,22999
+1357,Dodge,Dodge Charger,2021,59759,23999
+1358,Mazda,Mazda Mazda CX-5,2019,60608,24999
+1359,Jeep,Jeep Grand Cherokee,2019,56666,26999
+1360,Ford,Ford F-150,2021,55390,38999
+1361,Nissan,Nissan Kicks,2020,59245,17499
+1362,Chevrolet,Chevrolet Malibu,2020,60729,18199
+1363,Mitsubishi,Mitsubishi Outlander Sport,2020,57821,18499
+1364,Chevrolet,Chevrolet Malibu,2021,60615,18699
+1365,Volkswagen,Volkswagen Jetta,2021,58142,19299
+1366,Jeep,Jeep Compass,2021,59917,20799
+1367,Chrysler,Chrysler Voyager,2020,67478,20999
+1368,Chrysler,Chrysler Voyager,2021,65221,21999
+1369,Nissan,Nissan Altima,2020,62405,22999
+1370,Buick,Buick Encore GX,2020,44951,23499
+1371,Nissan,Nissan Rogue,2021,74805,23499
+1372,GMC,GMC Terrain,2021,61084,24199
+1373,Chrysler,Chrysler Pacifica,2021,64927,25999
+1374,Lexus,Lexus NX,2021,60954,30999
+1375,Ford,Ford Transit Cargo Van,2020,60642,37299
+1376,Mitsubishi,Mitsubishi Outlander Sport,2021,61978,17499
+1377,Dodge,Dodge Journey,2020,61854,18699
+1378,Chevrolet,Chevrolet Malibu,2021,56886,18999
+1379,Chevrolet,Chevrolet Malibu,2021,60556,19299
+1380,Nissan,Nissan Altima,2021,54683,19499
+1381,Nissan,Nissan Altima,2021,57768,19999
+1382,Nissan,Nissan Altima,2021,58141,19999
+1383,Ford,Ford Escape,2018,24465,20999
+1384,Kia,Kia K5,2021,56660,20999
+1385,Nissan,Nissan Altima,2021,56673,20999
+1386,Chevrolet,Chevrolet Equinox,2021,58242,21499
+1387,Toyota,Toyota Camry,2020,58498,21999
+1388,Toyota,Toyota Camry,2021,62942,22299
+1389,Nissan,Nissan Maxima,2021,57836,23499
+1390,Chrysler,Chrysler 300,2021,58510,24999
+1391,Ford,Ford Bronco Sport,2021,53131,25499
+1392,Hyundai,Hyundai Sonata,2020,7655,25999
+1393,Chevrolet,Chevrolet Equinox,2020,24870,27999
+1394,GMC,GMC Terrain,2021,27134,29999
+1395,BMW,BMW X3,2021,58689,29999
+1396,Chrysler,Chrysler Pacifica,2021,62451,29999
+1397,Volkswagen,Volkswagen Tiguan,2019,16683,30999
+1398,Alfa Romeo,Alfa Romeo Giulia,2021,21060,31999
+1399,Ford,Ford Explorer,2020,24488,33499
+1400,Lexus,Lexus UX,2020,13315,34999
+1401,Toyota,Toyota RAV4,2023,503,38499
+1402,Acura,Acura RDX,2021,14795,38499
+1403,Lexus,Lexus RX,2020,33757,41499
+1404,Jeep,Jeep Grand Cherokee,2021,22489,43499
+1405,Ford,Ford F-150,2021,52882,44999
+1406,GMC,GMC Yukon,2021,67717,51699
+1407,Ford,Ford Super Duty F-250 SRW,2021,74755,57499
+1408,Toyota,Toyota Camry,2021,57952,22699
+1409,Hyundai,Hyundai Accent,2021,58150,29499
+1410,Nissan,Nissan Versa,2021,62119,16499
+1411,Kia,Kia Soul,2021,64695,16699
+1412,Hyundai,Hyundai Elantra,2020,59055,16999
+1413,Nissan,Nissan Versa,2021,63797,17199
+1414,Toyota,Toyota Corolla,2020,70897,17299
+1415,Volkswagen,Volkswagen Jetta,2020,61387,18199
+1416,Toyota,Toyota Corolla,2021,65990,18499
+1417,Toyota,Toyota Corolla,2021,66656,18499
+1418,Chevrolet,Chevrolet Malibu,2021,61299,18699
+1419,Volkswagen,Volkswagen Golf,2021,60477,18999
+1420,Volkswagen,Volkswagen Jetta,2021,62009,18999
+1421,Toyota,Toyota Corolla,2021,63098,18999
+1422,Toyota,Toyota Corolla,2021,63346,18999
+1423,Toyota,Toyota Corolla,2021,63374,18999
+1424,Chevrolet,Chevrolet Malibu,2021,69570,18999
+1425,Kia,Kia Optima,2020,72853,18999
+1426,Hyundai,Hyundai Sonata,2021,60741,19199
+1427,Chevrolet,Chevrolet Malibu,2021,64811,19199
+1428,Dodge,Dodge Journey,2020,60179,19299
+1429,Chevrolet,Chevrolet Malibu,2021,64904,19299
+1430,Chevrolet,Chevrolet Equinox,2021,61236,19499
+1431,Ford,Ford Fusion,2020,64224,20499
+1432,Jeep,Jeep Compass,2021,66294,20799
+1433,Mitsubishi,Mitsubishi Outlander Sport,2021,38452,20999
+1434,Mitsubishi,Mitsubishi Outlander Sport,2021,38510,20999
+1435,Chrysler,Chrysler Voyager,2021,64770,22199
+1436,Toyota,Toyota Camry,2021,62116,22299
+1437,Toyota,Toyota Camry,2021,63264,22299
+1438,Dodge,Dodge Charger,2021,61886,23199
+1439,Nissan,Nissan Rogue,2021,63399,23199
+1440,Chrysler,Chrysler 300,2021,61459,24699
+1441,Nissan,Nissan Frontier,2018,64531,25499
+1442,Chrysler,Chrysler 300,2021,61773,25799
+1443,GMC,GMC Terrain,2020,38281,25999
+1444,Chevrolet,Chevrolet Traverse,2021,62105,31499
+1445,Jeep,Jeep Grand Cherokee,2020,15399,31999
+1446,Jeep,Jeep Wrangler,2021,61800,36299
+1447,Ford,Ford F-150,2021,61302,38499
+1448,Nissan,Nissan Versa,2021,60105,16499
+1449,Hyundai,Hyundai Elantra,2020,61668,16699
+1450,Ford,Ford Fiesta,2019,22789,16999
+1451,Hyundai,Hyundai Elantra,2020,58158,16999
+1452,Chevrolet,Chevrolet Trax,2021,59134,17999
+1453,Ford,Ford Ecosport,2021,60832,19499
+1454,Chevrolet,Chevrolet Equinox,2021,64564,20499
+1455,Toyota,Toyota Camry,2020,58101,21999
+1456,Toyota,Toyota Camry,2021,61586,22699
+1457,Chrysler,Chrysler Pacifica,2021,65937,25999
+1458,Jeep,Jeep Grand Cherokee,2020,72626,26499
+1459,Buick,Buick Enclave,2019,58009,27499
+1460,Subaru,Subaru Ascent,2019,58004,27999
+1461,Jeep,Jeep Grand Cherokee,2020,60328,28999
+1462,Toyota,Toyota Avalon,2019,58267,29999
+1463,Ford,Ford Transit Van,2018,91837,29999
+1464,Nissan,Nissan Armada,2021,65909,32699
+1465,Toyota,Toyota Highlander,2021,63819,32999
+1466,Toyota,Toyota 4Runner,2019,61016,34999
+1467,Toyota,Toyota Tacoma 4WD,2020,64832,36199
+1468,RAM,RAM 1500,2020,60635,39999
+1469,Nissan,Nissan Versa,2020,57586,15999
+1470,Kia,Kia Soul,2020,60670,15999
+1471,Hyundai,Hyundai Elantra,2020,61084,15999
+1472,Nissan,Nissan Kicks,2020,59988,16499
+1473,Nissan,Nissan Versa,2021,58999,16799
+1474,Hyundai,Hyundai Elantra,2020,57543,16999
+1475,Hyundai,Hyundai Kona,2021,60132,17199
+1476,Hyundai,Hyundai Kona,2021,59987,17999
+1477,Mitsubishi,Mitsubishi Outlander Sport,2021,58267,18999
+1478,Volkswagen,Volkswagen Tiguan,2018,58350,18999
+1479,Toyota,Toyota Corolla,2021,61115,18999
+1480,Kia,Kia Optima,2019,58254,19999
+1481,Chevrolet,Chevrolet Equinox,2021,60182,20999
+1482,Kia,Kia Sportage,2019,63772,20999
+1483,Nissan,Nissan Maxima,2020,59547,21999
+1484,Chrysler,Chrysler Voyager,2021,60568,22499
+1485,Dodge,Dodge Charger,2020,63377,22499
+1486,Nissan,Nissan Rogue,2021,58471,23499
+1487,Chevrolet,Chevrolet Equinox,2019,55576,23999
+1488,Nissan,Nissan Rogue,2021,37780,24299
+1489,Ford,Ford Escape,2022,36777,24499
+1490,RAM,RAM 1500,2017,65704,24499
+1491,Chrysler,Chrysler Pacifica,2020,66302,26499
+1492,Honda,Honda Insight,2022,34691,27699
+1493,Jeep,Jeep Grand Cherokee,2021,61195,29999
+1494,Chevrolet,Chevrolet Traverse,2021,58763,30999
+1495,Hyundai,Hyundai Accent,2020,67193,15999
+1496,Hyundai,Hyundai Accent,2021,62247,16499
+1497,Hyundai,Hyundai Elantra,2020,63154,16499
+1498,Nissan,Nissan Versa,2021,63619,16499
+1499,Hyundai,Hyundai Elantra,2020,63908,16499
+1500,Hyundai,Hyundai Elantra,2020,66584,16499
+1501,Kia,Kia Soul,2020,62031,16999
+1502,Nissan,Nissan Kicks,2020,67448,16999
+1503,Nissan,Nissan Sentra,2021,61331,17999
+1504,Volkswagen,Volkswagen Jetta,2021,61373,17999
+1505,Nissan,Nissan Sentra,2021,63931,17999
+1506,Toyota,Toyota Corolla,2020,65515,18499
+1507,Chevrolet,Chevrolet Equinox,2019,63485,18599
+1508,Chrysler,Chrysler Voyager,2020,80795,18799
+1509,Chevrolet,Chevrolet Equinox,2018,59338,18999
+1510,Chevrolet,Chevrolet Equinox,2019,64835,19499
+1511,Nissan,Nissan Altima,2021,69508,19799
+1512,Nissan,Nissan Kicks,2021,32914,19999
+1513,Toyota,Toyota Camry,2020,62205,21999
+1514,Toyota,Toyota Camry,2021,64095,21999
+1515,Nissan,Nissan Rogue,2021,63494,22999
+1516,Chrysler,Chrysler Pacifica,2020,70537,23499
+1517,Chrysler,Chrysler Pacifica,2020,71527,23799
+1518,Chevrolet,Chevrolet Equinox,2019,55047,23999
+1519,Audi,Audi Q3,2021,63736,24999
+1520,Toyota,Toyota RAV4,2018,66928,24999
+1521,Chrysler,Chrysler Pacifica,2021,74478,24999
+1522,Chrysler,Chrysler Pacifica,2021,76935,24999
+1523,Chevrolet,Chevrolet Express Cargo Van,2017,93370,26999
+1524,Audi,Audi A5 Sportback,2021,61834,29999
+1525,Chevrolet,Chevrolet Express Cargo Van,2019,80529,31999
+1526,Dodge,Dodge Durango,2021,69318,36799
+1527,Hyundai,Hyundai Elantra,2019,95736,13999
+1528,Nissan,Nissan Sentra,2020,80911,15999
+1529,Nissan,Nissan Versa,2021,67555,16499
+1530,Kia,Kia Soul,2020,71523,16499
+1531,Hyundai,Hyundai Venue,2021,60998,16999
+1532,Nissan,Nissan Kicks,2020,63044,16999
+1533,Volkswagen,Volkswagen Jetta,2021,70569,17799
+1534,Nissan,Nissan Rogue,2020,86037,17999
+1535,Mitsubishi,Mitsubishi Outlander Sport,2020,66025,18999
+1536,Kia,Kia Optima,2019,69143,18999
+1537,Chevrolet,Chevrolet Malibu,2020,83080,18999
+1538,Ford,Ford Taurus,2019,95767,18999
+1539,Chevrolet,Chevrolet Malibu,2021,62277,19499
+1540,Chevrolet,Chevrolet Malibu,2021,65034,19999
+1541,Nissan,Nissan Altima,2021,67256,19999
+1542,Nissan,Nissan Altima,2021,71033,19999
+1543,Jeep,Jeep Compass,2021,67203,20999
+1544,Ford,Ford Ecosport,2020,24729,21499
+1545,Chrysler,Chrysler Voyager,2021,70251,21499
+1546,Jeep,Jeep Compass,2021,65401,21999
+1547,Subaru,Subaru Crosstrek,2016,66742,21999
+1548,Chrysler,Chrysler Voyager,2021,73195,21999
+1549,GMC,GMC Terrain,2020,66649,22499
+1550,Ford,Ford Escape,2020,73291,22499
+1551,Hyundai,Hyundai Tucson,2020,63972,22999
+1552,Nissan,Nissan Rogue,2021,67313,23499
+1553,Toyota,Toyota Camry,2020,39143,23999
+1554,GMC,GMC Acadia,2019,69840,24999
+1555,Mazda,Mazda Mazda CX-5,2021,49409,25499
+1556,Subaru,Subaru Crosstrek,2019,50607,25999
+1557,Infiniti,Infiniti QX60,2019,64853,25999
+1558,BMW,BMW 3 Series,2020,75579,25999
+1559,Chevrolet,Chevrolet Traverse,2021,79969,26999
+1560,Jeep,Jeep Grand Cherokee,2021,64559,27499
+1561,Toyota,Toyota RAV4,2020,40630,28999
+1562,Jeep,Jeep Grand Cherokee,2020,60312,28999
+1563,Nissan,Nissan Armada,2020,81113,28999
+1564,Jeep,Jeep Grand Cherokee,2019,60398,29499
+1565,Infiniti,Infiniti QX80,2020,71236,31999
+1566,Dodge,Dodge Charger,2021,64406,32499
+1567,Kia,Kia Soul,2020,60656,15999
+1568,Nissan,Nissan Rogue Sport,2021,61001,17999
+1569,Nissan,Nissan Sentra,2021,59500,18699
+1570,Dodge,Dodge Journey,2020,60657,19299
+1571,Mazda,Mazda Mazda CX-5,2020,59427,22199
+1572,Volkswagen,Volkswagen Tiguan,2021,62514,22199
+1573,Nissan,Nissan Rogue,2021,58706,23499
+1574,Hyundai,Hyundai Elantra,2020,63242,16699
+1575,Hyundai,Hyundai Elantra,2020,59354,16999
+1576,Kia,Kia Forte,2020,61506,16999
+1577,Hyundai,Hyundai Kona,2021,61378,17199
+1578,Nissan,Nissan Kicks,2020,58805,17499
+1579,Kia,Kia Forte,2021,60424,17699
+1580,Mitsubishi,Mitsubishi Eclipse Cross,2020,59595,17999
+1581,Chevrolet,Chevrolet Malibu,2021,60705,18699
+1582,Chevrolet,Chevrolet Malibu,2021,60395,18999
+1583,Toyota,Toyota Corolla,2021,60831,18999
+1584,Toyota,Toyota Corolla,2021,61257,18999
+1585,Hyundai,Hyundai Sonata,2021,61545,19199
+1586,Ford,Ford Ecosport,2020,52701,19999
+1587,Jeep,Jeep Compass,2020,61303,19999
+1588,Subaru,Subaru Legacy,2019,60215,20499
+1589,Nissan,Nissan Rogue,2020,61841,20799
+1590,Jeep,Jeep Compass,2021,57826,21299
+1591,Jeep,Jeep Compass,2021,60510,21999
+1592,Jeep,Jeep Compass,2020,62110,21999
+1593,Volkswagen,Volkswagen Tiguan,2021,58290,22499
+1594,Nissan,Nissan Rogue,2021,58539,23499
+1595,Chevrolet,Chevrolet Express Cargo Van,2021,52978,33499
+1596,Ford,Ford F-150,2021,58255,46499
+1597,Chevrolet,Chevrolet Tahoe,2021,61175,48999
+1598,Volkswagen,Volkswagen Passat,2020,60991,18699
+1599,Toyota,Toyota Corolla,2021,61940,19499
+1600,Nissan,Nissan Altima,2021,64724,20499
+1601,Chevrolet,Chevrolet Equinox,2021,65000,20499
+1602,Jeep,Jeep Compass,2021,59945,20799
+1603,Jeep,Jeep Cherokee,2020,61281,20999
+1604,Mazda,Mazda Mazda6,2021,57882,21299
+1605,Chrysler,Chrysler Voyager,2021,66015,21999
+1606,Toyota,Toyota Camry,2021,63995,22299
+1607,Jeep,Jeep Compass,2021,59275,22499
+1608,Nissan,Nissan Rogue,2021,57787,23499
+1609,Infiniti,Infiniti Q50,2020,60720,23499
+1610,Chevrolet,Chevrolet Blazer,2019,60830,26999
+1611,RAM,RAM 1500 Classic,2021,60945,27999
+1612,Chevrolet,Chevrolet Traverse,2021,75177,29499
+1613,Ford,Ford F-150,2020,63322,35499
+1614,Mitsubishi,Mitsubishi Outlander Sport,2019,40375,18499
+1615,Dodge,Dodge Journey,2020,64798,18499
+1616,Kia,Kia Optima,2019,50233,18999
+1617,Nissan,Nissan Sentra,2021,56135,18999
+1618,Nissan,Nissan Sentra,2021,56410,18999
+1619,Chevrolet,Chevrolet Malibu,2021,58528,18999
+1620,Volkswagen,Volkswagen Jetta,2021,63271,18999
+1621,Volkswagen,Volkswagen Jetta,2021,58167,19299
+1622,Chevrolet,Chevrolet Malibu,2021,61350,19499
+1623,Ford,Ford Escape,2018,53870,19599
+1624,Nissan,Nissan Versa,2021,39699,19999
+1625,Ford,Ford Escape,2018,41876,19999
+1626,Nissan,Nissan Altima,2020,56454,19999
+1627,Hyundai,Hyundai Sonata,2019,24604,20499
+1628,Kia,Kia Sportage,2020,47548,20999
+1629,Nissan,Nissan Altima,2021,57539,20999
+1630,Ford,Ford Edge,2019,59283,21199
+1631,Jeep,Jeep Grand Cherokee,2016,92002,21999
+1632,Toyota,Toyota Camry,2021,57251,22699
+1633,Toyota,Toyota Camry,2021,57462,22699
+1634,Toyota,Toyota Camry,2021,57988,22999
+1635,Nissan,Nissan Murano,2021,59129,22999
+1636,Nissan,Nissan Rogue,2021,57585,23499
+1637,Dodge,Dodge Challenger,2021,55363,23999
+1638,Dodge,Dodge Challenger,2021,57423,24999
+1639,Ford,Ford Edge,2018,22979,25999
+1640,BMW,BMW 2 Series,2021,57536,26299
+1641,RAM,RAM 1500 Classic,2021,58943,29999
+1642,Toyota,Toyota RAV4,2019,28231,31499
+1643,Chrysler,Chrysler Pacifica,2021,59757,32999
+1644,Toyota,Toyota Highlander,2021,61357,32999
+1645,Toyota,Toyota Tacoma 4WD,2021,60297,34499
+1646,Chevrolet,Chevrolet Silverado 1500,2019,54657,39999
+1647,GMC,GMC Yukon XL,2021,64870,52999
+1648,Nissan,Nissan Versa,2020,59052,15999
+1649,Nissan,Nissan Versa,2021,64124,16499
+1650,Nissan,Nissan Versa,2021,58637,16799
+1651,Hyundai,Hyundai Elantra,2020,58819,16999
+1652,Nissan,Nissan Rogue Sport,2018,67488,16999
+1653,Chevrolet,Chevrolet Malibu,2020,59208,18299
+1654,Kia,Kia Optima,2020,59553,18499
+1655,Jeep,Jeep Cherokee,2020,89734,18499
+1656,Nissan,Nissan Sentra,2021,61023,18699
+1657,Toyota,Toyota Corolla,2021,64663,18699
+1658,Hyundai,Hyundai Sonata,2021,60157,18799
+1659,Nissan,Nissan Rogue Sport,2021,58742,18999
+1660,Toyota,Toyota Corolla,2021,60904,18999
+1661,Volkswagen,Volkswagen Jetta,2021,58231,19299
+1662,Volkswagen,Volkswagen Jetta,2021,58839,19299
+1663,Chevrolet,Chevrolet Equinox,2020,60860,19699
+1664,Nissan,Nissan Altima,2021,61142,19699
+1665,Kia,Kia Sportage,2021,61539,19699
+1666,Ford,Ford Taurus,2018,57776,19999
+1667,Nissan,Nissan Altima,2021,58226,19999
+1668,Chevrolet,Chevrolet Equinox,2021,60850,19999
+1669,Jeep,Jeep Cherokee,2020,61157,19999
+1670,Kia,Kia K5,2021,60979,20699
+1671,Jeep,Jeep Compass,2020,60831,20999
+1672,Jeep,Jeep Cherokee,2020,63568,20999
+1673,Toyota,Toyota Camry,2020,59044,21699
+1674,Jeep,Jeep Compass,2021,60575,21999
+1675,Toyota,Toyota Camry,2021,62402,22299
+1676,Lincoln,Lincoln Lincoln MKZ,2018,58251,22499
+1677,Jeep,Jeep Compass,2021,58340,22499
+1678,Jeep,Jeep Compass,2021,60403,22499
+1679,Nissan,Nissan Rogue,2021,58926,22999
+1680,GMC,GMC Terrain,2021,61294,22999
+1681,Nissan,Nissan Murano,2021,61365,22999
+1682,Nissan,Nissan Rogue,2021,58022,23499
+1683,GMC,GMC Terrain,2021,62375,23499
+1684,GMC,GMC Terrain,2021,61463,23999
+1685,Honda,Honda Odyssey,2020,62727,25499
+1686,Hyundai,Hyundai Santa Fe,2019,61322,25999
+1687,Chevrolet,Chevrolet Traverse,2019,62054,26499
+1688,Chrysler,Chrysler Pacifica,2021,65663,26499
+1689,Jeep,Jeep Grand Cherokee,2020,51662,28499
+1690,Honda,Honda Odyssey,2019,62602,29399
+1691,Chevrolet,Chevrolet Blazer,2019,59555,31499
+1692,Genesis,Genesis G70,2022,37054,33499
+1693,Ford,Ford Transit Cargo Van,2020,54050,37699
+1694,Lexus,Lexus ES,2020,24719,38499
+1695,Hyundai,Hyundai Venue,2021,58123,16299
+1696,Nissan,Nissan Kicks,2020,57698,16499
+1697,Nissan,Nissan Versa,2021,58721,16799
+1698,Nissan,Nissan Versa,2021,58883,16799
+1699,Hyundai,Hyundai Kona,2021,61709,17199
+1700,Hyundai,Hyundai Kona,2021,59583,17499
+1701,Kia,Kia Forte,2021,61132,17699
+1702,Toyota,Toyota Corolla,2021,59612,18999
+1703,Volkswagen,Volkswagen Passat,2021,59777,19999
+1704,Volkswagen,Volkswagen Passat,2021,63440,19999
+1705,Chevrolet,Chevrolet Equinox,2021,58984,20499
+1706,Volkswagen,Volkswagen Jetta,2019,42984,20999
+1707,Nissan,Nissan Altima,2021,57737,20999
+1708,Kia,Kia K5,2021,58685,20999
+1709,Hyundai,Hyundai Sonata,2020,35785,21999
+1710,Nissan,Nissan Maxima,2020,58574,21999
+1711,Nissan,Nissan Altima,2021,59517,22499
+1712,Nissan,Nissan Rogue,2021,59400,22999
+1713,Subaru,Subaru Legacy,2020,61086,22999
+1714,Nissan,Nissan Rogue,2021,59333,23499
+1715,Dodge,Dodge Charger,2021,59164,23999
+1716,GMC,GMC Terrain,2021,58897,24499
+1717,Chrysler,Chrysler 300,2021,62275,24699
+1718,Chrysler,Chrysler 300,2021,58830,24999
+1719,Chrysler,Chrysler 300,2021,59979,24999
+1720,RAM,RAM 1500 Classic,2021,60154,26499
+1721,Toyota,Toyota RAV4,2021,60990,26499
+1722,Toyota,Toyota Highlander,2018,63956,26499
+1723,Volkswagen,Volkswagen Atlas,2021,61189,26999
+1724,Jeep,Jeep Grand Cherokee,2021,71470,27999
+1725,Chevrolet,Chevrolet Colorado,2020,60026,28499
+1726,Jeep,Jeep Grand Cherokee,2020,42170,32499
+1727,Acura,Acura RDX,2020,57079,32499
+1728,Chevrolet,Chevrolet Tahoe,2021,71505,48499
+1729,Nissan,Nissan Versa,2021,59789,16499
+1730,Hyundai,Hyundai Elantra,2020,59765,16999
+1731,Ford,Ford Escape,2019,79966,18499
+1732,Chevrolet,Chevrolet Malibu,2021,58150,18999
+1733,Honda,Honda Fit,2017,39859,19499
+1734,Honda,Honda Accord Sedan,2018,47002,22499
+1735,Nissan,Nissan Murano,2021,61471,23499
+1736,Ford,Ford Mustang,2021,60693,23999
+1737,Dodge,Dodge Charger,2021,63872,25399
+1738,Subaru,Subaru Forester,2021,28622,25999
+1739,Volvo,Volvo XC60,2020,83388,26499
+1740,Hyundai,Hyundai Santa Fe,2020,61267,27999
+1741,Jeep,Jeep Grand Cherokee,2021,61866,29999
+1742,Dodge,Dodge Charger,2021,60328,31999
+1743,Cadillac,Cadillac XT5,2019,62212,31999
+1744,Ford,Ford Transit Cargo Van,2020,63020,35999
+1745,Infiniti,Infiniti QX80,2022,28110,56999
+1746,Chevrolet,Chevrolet Trax,2021,61669,17199
+1747,Nissan,Nissan Rogue Sport,2019,58425,17999
+1748,Jeep,Jeep Cherokee,2020,63628,20999
+1749,Jeep,Jeep Compass,2019,59238,21499
+1750,Honda,Honda Civic Sedan,2019,51098,22499
+1751,Volvo,Volvo XC60,2020,82454,27499
+1752,Chevrolet,Chevrolet Silverado 1500,2021,62880,34999
+1753,Infiniti,Infiniti QX80,2021,62250,35499
+1754,Ford,Ford Transit Cargo Van,2020,60514,36999
+1755,RAM,RAM 3500,2020,60788,55999
+1756,Mitsubishi,Mitsubishi Mirage,2020,59902,12799
+1757,Hyundai,Hyundai Accent,2021,56685,16799
+1758,Chevrolet,Chevrolet Malibu,2021,60285,18699
+1759,Chevrolet,Chevrolet Malibu,2020,60946,18699
+1760,Ford,Ford Fusion,2020,61543,20499
+1761,Kia,Kia K5,2021,59250,20699
+1762,Kia,Kia K5,2021,59965,20699
+1763,Nissan,Nissan Altima,2021,60303,20799
+1764,Ford,Ford Escape,2020,27428,21499
+1765,Ford,Ford Escape,2020,24478,21999
+1766,Volkswagen,Volkswagen Jetta,2019,25184,21999
+1767,Jeep,Jeep Compass,2021,61330,21999
+1768,GMC,GMC Terrain,2020,60531,23199
+1769,Honda,Honda Civic Sedan,2020,21775,23999
+1770,Nissan,Nissan Rogue Sport,2020,28770,24799
+1771,Nissan,Nissan Altima,2020,20585,24999
+1772,Nissan,Nissan Rogue,2021,37750,25999
+1773,Chevrolet,Chevrolet Impala,2020,43747,25999
+1774,Subaru,Subaru Forester,2021,39919,26999
+1775,Jeep,Jeep Cherokee,2020,34810,27999
+1776,RAM,RAM 1500 Classic,2021,58495,29999
+1777,Jeep,Jeep Wrangler Unlimited,2020,61350,30999
+1778,Chevrolet,Chevrolet Silverado 1500,2018,58420,33499
+1779,Dodge,Dodge Durango,2021,58706,33799
+1780,Honda,Honda Passport,2021,12490,34799
+1781,Ford,Ford Transit Van,2019,64538,35499
+1782,Ford,Ford Transit Passenger Wagon,2018,61213,37499
+1783,Chevrolet,Chevrolet Silverado 1500,2022,10855,45499
+1784,Nissan,Nissan Kicks,2020,64108,15999
+1785,Nissan,Nissan Versa,2021,61770,16499
+1786,Hyundai,Hyundai Venue,2021,66382,16999
+1787,Nissan,Nissan Sentra,2021,65530,17999
+1788,Audi,Audi Q5,2021,62777,29499
+1789,Toyota,Toyota 4Runner,2021,75744,32499
+1790,Chevrolet,Chevrolet Spark,2021,60794,14999
+1791,Nissan,Nissan Versa,2020,62318,15999
+1792,Nissan,Nissan Versa,2020,63458,15999
+1793,Ford,Ford Escape,2017,65256,15999
+1794,Ford,Ford Fusion,2019,88723,15999
+1795,Hyundai,Hyundai Accent,2021,62688,16499
+1796,Nissan,Nissan Versa,2021,63296,16499
+1797,Hyundai,Hyundai Elantra,2020,64617,16499
+1798,Nissan,Nissan Versa,2021,66905,16499
+1799,Hyundai,Hyundai Venue,2021,60599,16999
+1800,Kia,Kia Soul,2020,65610,16999
+1801,Kia,Kia Soul,2021,68857,16999
+1802,Hyundai,Hyundai Kona,2021,61569,17999
+1803,Kia,Kia Forte,2021,65456,17999
+1804,Nissan,Nissan Sentra,2021,68646,17999
+1805,Kia,Kia Optima,2020,81666,17999
+1806,Toyota,Toyota Corolla,2020,65010,18499
+1807,Chevrolet,Chevrolet Equinox,2019,82631,18999
+1808,Chevrolet,Chevrolet Malibu,2021,62483,19499
+1809,Nissan,Nissan Rogue Sport,2021,63283,19499
+1810,Nissan,Nissan Altima,2021,64138,19999
+1811,Chevrolet,Chevrolet Malibu,2021,65786,19999
+1812,Chevrolet,Chevrolet Malibu,2021,70118,19999
+1813,Nissan,Nissan Altima,2021,66297,20499
+1814,Jeep,Jeep Cherokee,2019,61623,20999
+1815,Nissan,Nissan Altima,2021,62633,20999
+1816,Dodge,Dodge Grand Caravan,2019,60008,21499
+1817,Nissan,Nissan Altima,2021,64483,21499
+1818,Nissan,Nissan Altima,2022,27263,21699
+1819,Ford,Ford Escape,2019,51339,21999
+1820,Jeep,Jeep Compass,2021,62854,21999
+1821,Toyota,Toyota Camry,2020,63231,21999
+1822,Toyota,Toyota Camry,2021,63249,22999
+1823,Mazda,Mazda Mazda CX-5,2020,64023,22999
+1824,Nissan,Nissan Rogue,2021,64175,22999
+1825,Subaru,Subaru Outback,2020,77429,22999
+1826,Jeep,Jeep Compass,2020,62414,23499
+1827,Nissan,Nissan Rogue,2021,66635,23499
+1828,Nissan,Nissan Maxima,2021,66893,23499
+1829,Jeep,Jeep Cherokee,2020,61600,23999
+1830,Nissan,Nissan Rogue,2021,67408,23999
+1831,Chrysler,Chrysler 300,2021,63454,24999
+1832,Toyota,Toyota RAV4,2021,64121,27499
+1833,Jeep,Jeep Grand Cherokee,2020,71169,28499
+1834,Jeep,Jeep Grand Cherokee,2020,71968,28499
+1835,Honda,Honda Passport,2019,43140,28999
+1836,Toyota,Toyota RAV4,2021,61564,28999
+1837,Cadillac,Cadillac XT5,2021,70412,29999
+1838,Volvo,Volvo XC60,2020,52085,31499
+1839,RAM,RAM 1500,2021,31108,35999
+1840,GMC,GMC Yukon,2021,69883,47499
+1841,Chevrolet,Chevrolet Tahoe,2021,70916,49999
+1842,Hyundai,Hyundai Elantra,2020,61067,16699
+1843,Chevrolet,Chevrolet Malibu,2019,38968,19999
+1844,Nissan,Nissan Altima,2021,57660,19999
+1845,Chevrolet,Chevrolet Trax,2020,16290,20999
+1846,Subaru,Subaru Legacy,2020,59339,20999
+1847,Buick,Buick Encore,2020,16990,21999
+1848,Toyota,Toyota Camry,2021,62525,22299
+1849,Ford,Ford Escape,2020,19997,22499
+1850,Jeep,Jeep Compass,2021,62976,22499
+1851,Mazda,Mazda Mazda CX-5,2021,64743,23999
+1852,GMC,GMC Terrain,2021,61770,24199
+1853,Volkswagen,Volkswagen Jetta,2020,15490,24499
+1854,Nissan,Nissan Rogue,2020,35603,24999
+1855,Nissan,Nissan Pathfinder,2020,33301,25999
+1856,Ford,Ford Explorer,2020,60488,28499
+1857,Buick,Buick Envision,2019,23013,28799
+1858,Nissan,Nissan Altima,2022,7075,29999
+1859,Jeep,Jeep Grand Cherokee,2019,33216,31499
+1860,Infiniti,Infiniti Q50,2020,38100,31499
+1861,Volkswagen,Volkswagen Tiguan,2023,2314,33499
+1862,Dodge,Dodge Durango,2021,60230,33999
+1863,Jeep,Jeep Grand Cherokee,2020,68983,35499
+1864,Nissan,Nissan Pathfinder,2022,2885,37999
+1865,Ford,Ford Transit Cargo Van,2020,58188,37999
+1866,Ford,Ford F-150,2021,58141,38499
+1867,RAM,RAM 1500,2022,33025,43999
+1868,Nissan,Nissan Versa,2021,61282,16499
+1869,Hyundai,Hyundai Elantra,2020,58149,16999
+1870,Kia,Kia Soul,2021,59139,16999
+1871,Nissan,Nissan Kicks,2020,58536,17499
+1872,Nissan,Nissan Kicks,2020,62125,17699
+1873,Nissan,Nissan Rogue Sport,2019,63083,17699
+1874,Chevrolet,Chevrolet Malibu,2021,60035,18699
+1875,Ford,Ford Escape,2019,61156,18999
+1876,Chevrolet,Chevrolet Trax,2019,35067,19999
+1877,Nissan,Nissan Rogue,2019,57794,19999
+1878,Nissan,Nissan Altima,2020,58759,19999
+1879,Jeep,Jeep Cherokee,2020,62514,19999
+1880,Ford,Ford Fusion,2020,60554,20499
+1881,Chevrolet,Chevrolet Equinox,2021,61274,20499
+1882,Ford,Ford Fusion,2020,59172,20999
+1883,Ford,Ford Taurus,2018,51160,21499
+1884,Toyota,Toyota Camry,2020,59712,21699
+1885,Subaru,Subaru Impreza,2022,8689,21999
+1886,Nissan,Nissan Sentra,2020,43439,21999
+1887,Toyota,Toyota Camry,2021,61539,22299
+1888,Ford,Ford Escape,2020,13197,22499
+1889,Ford,Ford Escape,2020,17030,22499
+1890,Kia,Kia Optima,2020,24522,22499
+1891,Volkswagen,Volkswagen Jetta,2019,24884,22499
+1892,Honda,Honda Civic Sedan,2020,24895,22999
+1893,GMC,GMC Terrain,2020,59535,23499
+1894,Chevrolet,Chevrolet Camaro,2021,59822,23999
+1895,GMC,GMC Terrain,2021,60965,23999
+1896,Nissan,Nissan Rogue,2021,30067,25499
+1897,Hyundai,Hyundai Santa Fe,2021,48300,26999
+1898,Honda,Honda Accord Sedan,2020,40528,27499
+1899,Chevrolet,Chevrolet Equinox,2020,20854,27999
+1900,Acura,Acura TLX,2020,22431,28499
+1901,Honda,Honda CR-V,2020,37159,29499
+1902,Cadillac,Cadillac XT5,2021,60865,30499
+1903,Chevrolet,Chevrolet Silverado 1500,2019,60882,34299
+1904,Ford,Ford F-150,2019,48445,35799
+1905,RAM,RAM 1500,2020,65746,35999
+1906,Ford,Ford F-150,2021,62501,37999
+1907,Toyota,Toyota Highlander,2020,36297,42999
+1908,RAM,RAM 1500,2022,21981,45999
+1909,Nissan,Nissan Versa,2021,57952,16799
+1910,Toyota,Toyota Corolla,2019,62066,17999
+1911,Ford,Ford Ecosport,2020,60911,18499
+1912,Volkswagen,Volkswagen Jetta,2021,60271,18999
+1913,Chevrolet,Chevrolet Equinox,2021,64807,18999
+1914,Nissan,Nissan Altima,2021,58141,19499
+1915,Kia,Kia Sedona,2017,42682,19999
+1916,Jeep,Jeep Cherokee,2019,62237,20499
+1917,Kia,Kia K5,2021,59275,21499
+1918,Toyota,Toyota Camry,2021,61980,22699
+1919,Honda,Honda CR-V,2020,61424,28499
+1920,GMC,GMC Yukon XL,2021,67238,52799
+1921,Kia,Kia Forte,2021,61623,17699
+1922,Mitsubishi,Mitsubishi Outlander,2020,60594,18999
+1923,Toyota,Toyota Camry,2020,62154,21699
+1924,Hyundai,Hyundai Accent,2021,59719,16799
+1925,Hyundai,Hyundai Elantra,2020,62263,16999
+1926,Mitsubishi,Mitsubishi Outlander Sport,2020,59955,17299
+1927,Kia,Kia Forte,2021,59876,17699
+1928,Mitsubishi,Mitsubishi Outlander Sport,2021,58205,17799
+1929,Chevrolet,Chevrolet Equinox,2020,60467,18999
+1930,Dodge,Dodge Journey,2020,59606,19299
+1931,Dodge,Dodge Journey,2020,59626,19499
+1932,Volkswagen,Volkswagen Passat,2021,62132,19999
+1933,Ford,Ford Fusion,2020,63164,20499
+1934,Kia,Kia K5,2021,61444,20699
+1935,Jeep,Jeep Compass,2021,64820,20799
+1936,Hyundai,Hyundai Kona,2020,18237,20999
+1937,Jeep,Jeep Compass,2021,60850,21999
+1938,Jeep,Jeep Compass,2021,61190,21999
+1939,Ford,Ford Mustang,2020,60769,22499
+1940,Nissan,Nissan Rogue,2021,61325,22499
+1941,Dodge,Dodge Charger,2021,63098,23999
+1942,GMC,GMC Terrain,2021,60928,24199
+1943,Hyundai,Hyundai Sonata,2021,44900,24999
+1944,GMC,GMC Terrain,2020,35002,25999
+1945,Nissan,Nissan Rogue,2020,35008,25999
+1946,Chrysler,Chrysler Pacifica,2020,61606,27499
+1947,Toyota,Toyota RAV4,2019,53981,27999
+1948,Mercedes-Benz,Mercedes-Benz C-Class,2019,50453,28799
+1949,BMW,BMW X3,2021,61251,29499
+1950,Ford,Ford Explorer,2020,43450,29999
+1951,Acura,Acura RDX,2020,44200,32999
+1952,Toyota,Toyota 4Runner,2021,60459,33499
+1953,RAM,RAM 1500,2022,17260,34499
+1954,Lexus,Lexus ES,2020,23799,36999
+1955,Ford,Ford Transit Cargo Van,2021,60900,40499
+1956,RAM,RAM 2500,2019,49484,44499
+1957,Toyota,Toyota Tundra 4WD,2021,25528,45999
+1958,GMC,GMC Yukon XL,2020,46547,54499
+1959,Audi,Audi Q7,2021,11014,54999
+1960,Nissan,Nissan Versa,2021,65799,16199
+1961,Hyundai,Hyundai Elantra,2020,62737,16699
+1962,Hyundai,Hyundai Elantra,2020,58007,16999
+1963,Kia,Kia Forte,2020,63386,16999
+1964,Nissan,Nissan Sentra,2021,54903,18999
+1965,Kia,Kia Sportage,2021,60236,19699
+1966,Kia,Kia K5,2021,60609,20699
+1967,Jeep,Jeep Compass,2021,62363,20799
+1968,Toyota,Toyota Camry,2021,62552,22299
+1969,Toyota,Toyota Camry,2021,59851,22699
+1970,Hyundai,Hyundai Kona,2021,7065,22999
+1971,Nissan,Nissan Rogue,2020,42320,22999
+1972,GMC,GMC Terrain,2021,61639,23499
+1973,Ford,Ford Escape,2020,28807,23999
+1974,Chevrolet,Chevrolet Equinox,2020,31440,23999
+1975,Volkswagen,Volkswagen Tiguan,2019,42565,23999
+1976,Dodge,Dodge Challenger,2019,57632,23999
+1977,Subaru,Subaru Legacy,2021,40280,24799
+1978,Nissan,Nissan Rogue,2020,26344,24999
+1979,Jeep,Jeep Renegade,2019,27941,24999
+1980,Nissan,Nissan Rogue,2020,33652,24999
+1981,Chrysler,Chrysler 300,2021,59845,24999
+1982,Nissan,Nissan Altima,2022,6210,26999
+1983,Buick,Buick Encore GX,2020,17016,26999
+1984,Ford,Ford F-150,2019,62905,32999
+1985,Dodge,Dodge Durango,2019,63683,33999
+1986,RAM,RAM 1500,2019,58750,34999
+1987,Chevrolet,Chevrolet Silverado 1500,2020,59400,35499
+1988,Ford,Ford Transit Passenger Wagon,2020,64338,44999
+1989,Chevrolet,Chevrolet Spark,2021,60885,14499
+1990,Hyundai,Hyundai Venue,2021,64476,15999
+1991,Hyundai,Hyundai Elantra,2020,61869,16699
+1992,Kia,Kia Soul,2021,64448,16699
+1993,Hyundai,Hyundai Venue,2021,46096,17499
+1994,Nissan,Nissan Sentra,2021,63876,18699
+1995,Toyota,Toyota Corolla,2021,63847,18999
+1996,Hyundai,Hyundai Sonata,2021,62906,19199
+1997,Chevrolet,Chevrolet Equinox,2021,66001,19499
+1998,Nissan,Nissan Altima,2021,60178,19699
+1999,Nissan,Nissan Altima,2021,64010,19699
+2000,Ford,Ford Fiesta,2019,30909,19999
+2001,Chevrolet,Chevrolet Equinox,2021,60407,19999
+2002,Volkswagen,Volkswagen Passat,2021,62684,19999
+2003,Chevrolet,Chevrolet Equinox,2021,63390,20499
+2004,Jeep,Jeep Cherokee,2020,67479,20699
+2005,Ford,Ford Escape,2018,48173,20799
+2006,Jeep,Jeep Compass,2021,60314,20799
+2007,Jeep,Jeep Compass,2021,62210,20799
+2008,Mitsubishi,Mitsubishi Outlander Sport,2021,41546,20999
+2009,Kia,Kia Optima,2020,47836,20999
+2010,Mitsubishi,Mitsubishi Outlander Sport,2021,41609,21499
+2011,Jeep,Jeep Compass,2019,53724,22499
+2012,Ford,Ford Edge,2019,60940,22999
+2013,Jeep,Jeep Compass,2021,46227,23999
+2014,Honda,Honda CR-V,2019,56492,23999
+2015,Honda,Honda HR-V,2022,30092,24299
+2016,Volkswagen,Volkswagen Atlas,2021,64608,27499
+2017,Nissan,Nissan Rogue,2020,12721,28499
+2018,Nissan,Nissan Rogue,2020,21084,29499
+2019,Jeep,Jeep Grand Cherokee,2021,63827,29999
+2020,Nissan,Nissan Maxima,2020,24239,33499
+2021,Mercedes-Benz,Mercedes-Benz E-Class,2018,42832,34999
+2022,BMW,BMW X3,2021,22413,43499
+2023,Toyota,Toyota Camry,2021,63463,22299
+2024,Hyundai,Hyundai Sonata,2022,15315,25999
+2025,Hyundai,Hyundai Sonata,2022,18862,25999
+2026,Chrysler,Chrysler Pacifica,2021,62053,26499
+2027,Hyundai,Hyundai Accent,2021,58758,16499
+2028,Hyundai,Hyundai Elantra,2020,61282,16699
+2029,Nissan,Nissan Versa,2021,58659,16799
+2030,Hyundai,Hyundai Kona,2021,58232,17499
+2031,Nissan,Nissan Rogue Sport,2021,62209,18799
+2032,Volkswagen,Volkswagen Golf,2020,63726,18999
+2033,Toyota,Toyota Corolla,2021,58139,19299
+2034,Chevrolet,Chevrolet Equinox,2021,65495,19499
+2035,Chevrolet,Chevrolet Trax,2021,27352,20499
+2036,Ford,Ford Fusion,2020,57914,20499
+2037,Ford,Ford Edge,2019,96996,20499
+2038,Ford,Ford Escape,2020,42724,20999
+2039,Chrysler,Chrysler Voyager,2020,61907,21499
+2040,Ford,Ford Mustang,2019,59785,21999
+2041,Toyota,Toyota Camry,2022,63421,21999
+2042,Toyota,Toyota Camry,2021,60249,22299
+2043,Ford,Ford Escape,2021,24200,23999
+2044,Mazda,Mazda Mazda CX-5,2021,60421,23999
+2045,GMC,GMC Terrain,2021,57507,24499
+2046,Buick,Buick Encore,2022,15480,25199
+2047,Nissan,Nissan Rogue,2020,39932,25999
+2048,Lexus,Lexus NX 200T,2016,73410,25999
+2049,RAM,RAM 1500 Classic,2020,65760,26999
+2050,Mazda,Mazda Mazda CX-9,2021,58780,28999
+2051,Hyundai,Hyundai Santa Fe XL,2019,60727,28999
+2052,RAM,RAM 1500 Classic,2021,61262,29499
+2053,Jeep,Jeep Grand Cherokee,2021,46397,29999
+2054,Buick,Buick Envision,2020,22352,30699
+2055,Jeep,Jeep Grand Cherokee,2019,70175,31999
+2056,Subaru,Subaru Legacy,2021,20635,33499
+2057,Nissan,Nissan Rogue,2022,20623,34999
+2058,Acura,Acura RDX,2019,41667,35999
+2059,Jeep,Jeep Grand Cherokee,2021,11110,36499
+2060,Ford,Ford F-150,2021,65050,37999
+2061,Hyundai,Hyundai Palisade,2021,52500,38999
+2062,Honda,Honda Accord Sedan,2021,25457,29499
+2063,Nissan,Nissan Kicks,2020,60370,16199
+2064,Chevrolet,Chevrolet Spark,2021,37365,16299
+2065,Nissan,Nissan Versa,2021,58789,16799
+2066,Hyundai,Hyundai Elantra,2020,58386,16999
+2067,Hyundai,Hyundai Kona,2021,62266,17999
+2068,Chevrolet,Chevrolet Malibu,2020,58045,18299
+2069,Chevrolet,Chevrolet Malibu,2021,60148,18699
+2070,Toyota,Toyota Corolla,2020,57512,18799
+2071,Dodge,Dodge Journey,2020,57920,18999
+2072,Toyota,Toyota Corolla,2021,59809,18999
+2073,Toyota,Toyota Corolla,2021,59817,18999
+2074,Dodge,Dodge Journey,2020,61444,19299
+2075,Chevrolet,Chevrolet Equinox,2020,58537,19999
+2076,Nissan,Nissan Altima,2021,59195,19999
+2077,GMC,GMC Terrain,2019,58061,21799
+2078,Volkswagen,Volkswagen Tiguan,2021,64494,22199
+2079,Chrysler,Chrysler Voyager,2021,63504,22499
+2080,Nissan,Nissan Murano,2019,95850,22499
+2081,Chrysler,Chrysler Pacifica,2019,55686,22999
+2082,Nissan,Nissan Rogue,2021,69653,22999
+2083,Jeep,Jeep Cherokee,2019,58809,23299
+2084,Nissan,Nissan Rogue Sport,2020,34501,25599
+2085,Ford,Ford Ecosport,2022,210,26699
+2086,Dodge,Dodge Charger,2021,42500,27999
+2087,Nissan,Nissan Altima,2022,11245,28999
+2088,Subaru,Subaru Legacy,2020,14970,28999
+2089,Jeep,Jeep Compass,2022,15315,29999
+2090,Dodge,Dodge Durango,2019,58991,34999
+2091,Ford,Ford Focus,2018,42730,13999
+2092,Chevrolet,Chevrolet Spark,2021,57680,14999
+2093,Hyundai,Hyundai Accent,2021,61897,16499
+2094,Hyundai,Hyundai Elantra,2020,58579,16999
+2095,Hyundai,Hyundai Sonata,2021,60341,18899
+2096,Volkswagen,Volkswagen Golf,2021,60092,18999
+2097,Toyota,Toyota Corolla,2021,62110,18999
+2098,Chrysler,Chrysler Voyager,2021,73308,21699
+2099,Toyota,Toyota Camry,2021,63475,22299
+2100,Jeep,Jeep Compass,2021,58499,22499
+2101,Jeep,Jeep Cherokee,2019,59266,22999
+2102,Ford,Ford Ecosport,2020,10953,23999
+2103,Nissan,Nissan Rogue Sport,2021,27391,23999
+2104,Honda,Honda HR-V,2021,46086,23999
+2105,Nissan,Nissan Rogue,2020,38726,24799
+2106,Chrysler,Chrysler Pacifica,2021,62558,26499
+2107,Chrysler,Chrysler Pacifica,2021,65073,26499
+2108,Jeep,Jeep Grand Cherokee,2019,63557,26999
+2109,Jeep,Jeep Compass,2020,16890,27499
+2110,Nissan,Nissan Rogue,2021,37385,27999
+2111,Toyota,Toyota Sienna,2020,91454,27999
+2112,Nissan,Nissan Rogue,2021,15643,28999
+2113,GMC,GMC Terrain,2020,32980,29999
+2114,Jeep,Jeep Grand Cherokee,2019,44880,29999
+2115,Jeep,Jeep Grand Cherokee,2021,20860,30499
+2116,Toyota,Toyota Tacoma,2018,60347,30999
+2117,Toyota,Toyota Sienna,2020,63373,30999
+2118,Acura,Acura TLX,2020,33377,31499
+2119,Toyota,Toyota Venza,2022,38661,32499
+2120,RAM,RAM 1500 Classic,2021,64110,32999
+2121,Lexus,Lexus UX,2021,23411,37999
+2122,RAM,RAM 1500,2021,28077,41999
+2123,Toyota,Toyota Tundra 4WD,2020,19219,46999
+2124,Chevrolet,Chevrolet Spark,2021,59487,14499
+2125,Chevrolet,Chevrolet Spark,2021,59507,14499
+2126,Nissan,Nissan Versa,2020,60849,15999
+2127,Hyundai,Hyundai Venue,2021,59609,16299
+2128,Nissan,Nissan Kicks,2020,60343,16499
+2129,Nissan,Nissan Versa,2021,60810,16499
+2130,Nissan,Nissan Versa,2021,61235,16499
+2131,Nissan,Nissan Versa,2021,58869,16699
+2132,Hyundai,Hyundai Accent,2021,59820,16699
+2133,Hyundai,Hyundai Elantra,2020,68077,16699
+2134,Hyundai,Hyundai Elantra,2020,60555,16999
+2135,Hyundai,Hyundai Elantra,2020,61950,16999
+2136,Hyundai,Hyundai Elantra,2020,62301,16999
+2137,Nissan,Nissan Kicks,2021,57642,17499
+2138,Hyundai,Hyundai Kona,2021,60382,17499
+2139,Jeep,Jeep Cherokee,2019,86337,17499
+2140,Nissan,Nissan Kicks,2020,57947,17999
+2141,Mitsubishi,Mitsubishi Outlander Sport,2020,59418,17999
+2142,Chevrolet,Chevrolet Trax,2020,59580,17999
+2143,Nissan,Nissan Sentra,2021,60568,18499
+2144,Nissan,Nissan Kicks,2021,57233,18799
+2145,Nissan,Nissan Sentra,2021,58007,18799
+2146,Nissan,Nissan Altima,2020,61415,18799
+2147,Toyota,Toyota Corolla,2019,38312,18999
+2148,Nissan,Nissan Sentra,2021,53406,18999
+2149,Volkswagen,Volkswagen Golf,2021,58625,18999
+2150,Mitsubishi,Mitsubishi Eclipse Cross,2020,60710,18999
+2151,Hyundai,Hyundai Sonata,2021,60718,18999
+2152,Volkswagen,Volkswagen Golf,2021,61252,18999
+2153,Toyota,Toyota Corolla,2021,61892,18999
+2154,Ford,Ford Ecosport,2020,62086,18999
+2155,Hyundai,Hyundai Sonata,2021,62471,18999
+2156,Toyota,Toyota Corolla,2021,63244,18999
+2157,Chevrolet,Chevrolet Malibu,2021,57712,19299
+2158,Nissan,Nissan Kicks,2020,27435,19599
+2159,Nissan,Nissan Altima,2021,60094,19799
+2160,Chevrolet,Chevrolet Malibu,2021,62770,19799
+2161,Chevrolet,Chevrolet Malibu,2021,63272,19799
+2162,Chevrolet,Chevrolet Malibu,2021,57998,19899
+2163,Ford,Ford Ecosport,2021,59791,19999
+2164,Nissan,Nissan Altima,2021,59940,19999
+2165,Chevrolet,Chevrolet Malibu,2021,64218,19999
+2166,Volkswagen,Volkswagen Passat,2021,60545,20499
+2167,Volkswagen,Volkswagen Passat,2021,60562,20499
+2168,Chevrolet,Chevrolet Equinox,2021,64914,20499
+2169,Nissan,Nissan Kicks,2020,13643,20599
+2170,Ford,Ford Escape,2020,60537,20999
+2171,Kia,Kia K5,2021,62166,20999
+2172,Jeep,Jeep Cherokee,2020,62890,20999
+2173,Volkswagen,Volkswagen Tiguan,2021,62972,20999
+2174,Hyundai,Hyundai Ioniq Hybrid,2021,21587,22499
+2175,Chrysler,Chrysler Voyager,2021,61534,22499
+2176,Toyota,Toyota Camry,2021,57582,22799
+2177,Jeep,Jeep Cherokee,2019,58282,22799
+2178,GMC,GMC Terrain,2021,57564,22999
+2179,Toyota,Toyota Camry,2021,58340,22999
+2180,GMC,GMC Terrain,2021,58536,22999
+2181,Hyundai,Hyundai Sonata,2020,60444,22999
+2182,Nissan,Nissan Rogue,2021,60445,23299
+2183,Nissan,Nissan Maxima,2021,61348,23299
+2184,Jeep,Jeep Compass,2021,43878,23499
+2185,Nissan,Nissan Rogue,2021,57944,23499
+2186,Jeep,Jeep Cherokee,2019,59908,23499
+2187,GMC,GMC Terrain,2020,61435,23499
+2188,Dodge,Dodge Charger,2021,62354,23799
+2189,Dodge,Dodge Charger,2021,57701,23999
+2190,Dodge,Dodge Challenger,2021,58663,23999
+2191,Dodge,Dodge Charger,2021,59332,23999
+2192,Chevrolet,Chevrolet Equinox,2019,59900,23999
+2193,Chrysler,Chrysler Pacifica,2020,61941,23999
+2194,Jeep,Jeep Cherokee,2020,70375,23999
+2195,Dodge,Dodge Charger,2021,64007,24499
+2196,Nissan,Nissan Altima,2022,28742,24999
+2197,Toyota,Toyota RAV4,2020,65281,24999
+2198,Chevrolet,Chevrolet Blazer,2020,59704,25999
+2199,Chevrolet,Chevrolet Traverse,2020,60634,26499
+2200,Buick,Buick Enclave,2019,61583,26899
+2201,Volkswagen,Volkswagen Atlas,2021,57457,27499
+2202,Chevrolet,Chevrolet Colorado,2021,59871,27499
+2203,Honda,Honda CR-V,2020,61387,27499
+2204,Lincoln,Lincoln Nautilus,2019,57344,27999
+2205,Jeep,Jeep Grand Cherokee,2019,59288,27999
+2206,RAM,RAM 1500 Classic,2021,61153,27999
+2207,RAM,RAM 1500 Classic,2021,57605,29499
+2208,Hyundai,Hyundai Palisade,2020,66100,31499
+2209,Chevrolet,Chevrolet Silverado 1500,2021,59656,31999
+2210,Jeep,Jeep Grand Cherokee,2020,60086,32999
+2211,Jeep,Jeep Grand Cherokee,2021,62256,33499
+2212,Cadillac,Cadillac XT6,2020,66183,33499
+2213,Honda,Honda Accord Sedan,2021,25667,33999
+2214,Chevrolet,Chevrolet Traverse,2021,43387,33999
+2215,Ford,Ford F-150,2021,58229,34999
+2216,Ford,Ford F-150,2020,60507,34999
+2217,RAM,RAM 1500 Classic,2022,40436,35499
+2218,Toyota,Toyota Venza,2021,62488,35499
+2219,RAM,RAM 1500,2020,60205,36999
+2220,RAM,RAM 1500,2021,61839,36999
+2221,GMC,GMC Acadia,2021,40100,37499
+2222,Audi,Audi Q7,2020,60998,37499
+2223,Jeep,Jeep Grand Cherokee L,2021,40768,39999
+2224,Chevrolet,Chevrolet Tahoe,2020,72974,39999
+2225,Chevrolet,Chevrolet Tahoe,2021,66396,47499
+2226,Hyundai,Hyundai Accent,2021,76742,15999
+2227,Nissan,Nissan Rogue Sport,2021,66093,17499
+2228,Hyundai,Hyundai Sonata,2021,66117,17999
+2229,Chevrolet,Chevrolet Trax,2021,71497,17999
+2230,Nissan,Nissan Rogue Sport,2019,80105,18599
+2231,Chevrolet,Chevrolet Malibu,2021,70656,18799
+2232,Chevrolet,Chevrolet Malibu,2021,70693,18799
+2233,Chevrolet,Chevrolet Malibu,2021,73290,18799
+2234,Jeep,Jeep Renegade,2019,61594,19299
+2235,Hyundai,Hyundai Sonata,2019,60627,19999
+2236,Chevrolet,Chevrolet Equinox,2021,63360,19999
+2237,Chevrolet,Chevrolet Equinox,2020,68087,19999
+2238,Volkswagen,Volkswagen Passat,2021,71896,19999
+2239,Kia,Kia K5,2021,61253,20999
+2240,Chevrolet,Chevrolet Equinox,2021,63712,20999
+2241,Jeep,Jeep Cherokee,2017,90313,20999
+2242,Ford,Ford Fusion,2020,61771,21499
+2243,Chrysler,Chrysler Voyager,2021,76831,21799
+2244,Subaru,Subaru Legacy,2020,70164,22999
+2245,Nissan,Nissan Kicks,2022,21430,23499
+2246,Nissan,Nissan Kicks,2022,21759,23499
+2247,Nissan,Nissan Rogue,2020,63300,23499
+2248,Mini,Mini Countryman,2019,61530,23999
+2249,Dodge,Dodge Charger,2021,62039,23999
+2250,Hyundai,Hyundai Santa Fe,2020,46574,24999
+2251,Lincoln,Lincoln Lincoln MKT,2019,72485,24999
+2252,Chrysler,Chrysler Pacifica,2021,63404,25499
+2253,Chevrolet,Chevrolet Silverado 1500,2018,94501,27999
+2254,Subaru,Subaru Outback,2022,18392,29999
+2255,Jeep,Jeep Grand Cherokee,2020,35122,31999
+2256,RAM,RAM 1500,2020,61599,32999
+2257,Ford,Ford F-150,2020,60699,33999
+2258,Ford,Ford Maverick,2023,10514,35999
+2259,Nissan,Nissan Frontier,2022,18330,35999
+2260,Ford,Ford Transit Passenger Wagon,2019,84604,35999
+2261,Hyundai,Hyundai Accent,2020,58914,16199
+2262,Nissan,Nissan Versa,2021,60787,16499
+2263,Kia,Kia Soul,2021,60071,16699
+2264,Nissan,Nissan Versa,2021,59062,16799
+2265,Hyundai,Hyundai Elantra,2020,58298,16999
+2266,Hyundai,Hyundai Elantra,2020,58649,16999
+2267,Hyundai,Hyundai Elantra,2020,58773,16999
+2268,Hyundai,Hyundai Elantra,2020,59508,17299
+2269,Nissan,Nissan Rogue Sport,2021,63034,18799
+2270,Nissan,Nissan Rogue Sport,2021,58113,19199
+2271,Dodge,Dodge Journey,2020,59889,19299
+2272,Nissan,Nissan Rogue Sport,2019,46719,19999
+2273,Nissan,Nissan Altima,2020,60486,20699
+2274,Hyundai,Hyundai Sonata,2019,61386,20999
+2275,Nissan,Nissan Rogue,2021,60529,23199
+2276,Subaru,Subaru Legacy,2020,23350,23699
+2277,Chrysler,Chrysler Pacifica,2021,75985,25199
+2278,BMW,BMW 2 Series,2021,60257,25799
+2279,Chevrolet,Chevrolet Malibu,2022,3870,25999
+2280,Honda,Honda HR-V,2020,19685,25999
+2281,Toyota,Toyota RAV4,2020,55570,26999
+2282,Jeep,Jeep Cherokee,2020,20749,28499
+2283,Chevrolet,Chevrolet Traverse,2019,57990,28999
+2284,Nissan,Nissan NV Cargo,2020,62536,28999
+2285,RAM,RAM 1500 Classic,2021,62112,29499
+2286,GMC,GMC Acadia,2020,23220,30499
+2287,Hyundai,Hyundai Venue,2021,58517,16299
+2288,Chevrolet,Chevrolet Malibu,2019,63714,17299
+2289,Mitsubishi,Mitsubishi Eclipse Cross,2020,60107,17699
+2290,Chevrolet,Chevrolet Malibu,2020,62080,17999
+2291,Toyota,Toyota Corolla,2021,64350,18699
+2292,Nissan,Nissan Altima,2021,59113,18999
+2293,Chevrolet,Chevrolet Malibu,2021,59172,18999
+2294,Toyota,Toyota Corolla,2021,63216,18999
+2295,Ford,Ford Escape,2020,61791,19499
+2296,Buick,Buick Encore,2022,15190,23499
+2297,Kia,Kia Sportage,2020,37003,23999
+2298,GMC,GMC Terrain,2020,21716,25999
+2299,Mitsubishi,Mitsubishi Eclipse Cross,2022,15267,26999
+2300,Volkswagen,Volkswagen Atlas,2021,61677,26999
+2301,Acura,Acura MDX,2020,61501,27499
+2302,Mercedes-Benz,Mercedes-Benz GLC,2019,60024,29999
+2303,Nissan,Nissan Frontier,2021,28043,30699
+2304,Dodge,Dodge Charger,2021,10264,33999
+2305,Jeep,Jeep Grand Cherokee,2021,10160,34999
+2306,Jeep,Jeep Cherokee,2022,4736,37999
+2307,Subaru,Subaru Outback,2023,1041,39999
+2308,Hyundai,Hyundai Accent,2020,74711,16699
+2309,Nissan,Nissan Versa,2021,61897,17699
+2310,Dodge,Dodge Journey,2020,62188,19699
+2311,Chevrolet,Chevrolet Malibu,2021,62578,19699
+2312,Toyota,Toyota Corolla,2021,67689,19699
+2313,Ford,Ford Fusion Hybrid,2019,75993,19699
+2314,Hyundai,Hyundai Kona,2021,56485,19999
+2315,Volkswagen,Volkswagen Passat,2021,62973,20699
+2316,Volkswagen,Volkswagen Jetta,2021,66467,21499
+2317,Jeep,Jeep Compass,2020,62079,21699
+2318,Nissan,Nissan Rogue,2018,63072,21699
+2319,Chevrolet,Chevrolet Malibu,2021,60492,22699
+2320,Chevrolet,Chevrolet Malibu,2021,56404,22999
+2321,Nissan,Nissan Rogue,2021,64689,22999
+2322,Nissan,Nissan Murano,2021,60204,23499
+2323,Volkswagen,Volkswagen Passat,2021,60936,23499
+2324,Ford,Ford Fusion,2020,66337,23699
+2325,Ford,Ford Fusion,2020,59597,23999
+2326,Nissan,Nissan Rogue,2021,68377,24299
+2327,Mini,Mini Countryman,2020,42772,24699
+2328,Toyota,Toyota Camry,2021,63090,25299
+2329,Jeep,Jeep Compass,2021,59026,25699
+2330,Nissan,Nissan Rogue,2021,61449,25699
+2331,Nissan,Nissan Pathfinder,2020,62696,25699
+2332,Honda,Honda Accord Sedan,2020,63215,25999
+2333,Chrysler,Chrysler 300,2021,68593,25999
+2334,Chrysler,Chrysler Pacifica,2020,70535,26999
+2335,Chrysler,Chrysler Pacifica,2020,67011,27499
+2336,RAM,RAM 1500 Classic,2021,71952,27699
+2337,Chrysler,Chrysler Pacifica,2021,67445,27999
+2338,Ford,Ford Edge,2020,61478,28699
+2339,Toyota,Toyota RAV4,2021,67567,29799
+2340,Volkswagen,Volkswagen Atlas,2021,61841,29999
+2341,Infiniti,Infiniti QX80,2021,70182,34699
+2342,Jeep,Jeep Wrangler,2021,60794,34999
+2343,Nissan,Nissan Armada,2021,71583,36499
+2344,GMC,GMC Yukon,2021,71508,49699
+2345,Chevrolet,Chevrolet Spark,2021,57586,14699
+2346,Hyundai,Hyundai Elantra,2020,58556,16999
+2347,Nissan,Nissan Kicks,2020,59032,17499
+2348,Nissan,Nissan Kicks,2020,59478,17499
+2349,Toyota,Toyota Camry,2017,95333,17499
+2350,Chevrolet,Chevrolet Malibu,2020,58952,18299
+2351,Nissan,Nissan Rogue Sport,2021,58509,18499
+2352,Chevrolet,Chevrolet Malibu,2021,60218,18699
+2353,Chevrolet,Chevrolet Malibu,2021,60324,18699
+2354,Nissan,Nissan Sentra,2021,61339,18699
+2355,Nissan,Nissan Altima,2021,59126,18999
+2356,Toyota,Toyota Corolla,2021,60006,18999
+2357,Hyundai,Hyundai Sonata,2021,59657,19199
+2358,Volkswagen,Volkswagen Jetta,2021,59373,19299
+2359,Nissan,Nissan Altima,2021,60303,19699
+2360,Nissan,Nissan Altima,2021,57738,19999
+2361,Nissan,Nissan Altima,2021,57810,19999
+2362,Chevrolet,Chevrolet Equinox,2021,63617,19999
+2363,Jeep,Jeep Compass,2021,96625,19999
+2364,Mazda,Mazda Mazda CX-5,2020,59990,20999
+2365,Jeep,Jeep Compass,2019,60655,21499
+2366,Toyota,Toyota Camry,2020,60309,21699
+2367,Subaru,Subaru Legacy,2020,15661,24999
+2368,Honda,Honda HR-V,2021,33678,24999
+2369,Chrysler,Chrysler Pacifica,2021,64266,25999
+2370,Jeep,Jeep Grand Cherokee,2021,79477,28999
+2371,Toyota,Toyota Highlander,2021,99570,28999
+2372,Acura,Acura RDX,2022,21939,47499
+2373,Mitsubishi,Mitsubishi Mirage,2020,60059,13499
+2374,Chevrolet,Chevrolet Spark,2021,62830,13999
+2375,Chevrolet,Chevrolet Spark,2021,59155,14499
+2376,Hyundai,Hyundai Accent,2020,70000,15499
+2377,Hyundai,Hyundai Venue,2021,59177,16299
+2378,Hyundai,Hyundai Accent,2021,60400,16499
+2379,Nissan,Nissan Versa,2021,60817,16499
+2380,Nissan,Nissan Versa,2021,58297,16699
+2381,Nissan,Nissan Versa,2021,59443,16699
+2382,Hyundai,Hyundai Elantra,2020,59093,17199
+2383,Hyundai,Hyundai Elantra,2020,59630,17199
+2384,Nissan,Nissan Kicks,2021,60168,17299
+2385,Hyundai,Hyundai Kona,2021,60538,17499
+2386,Hyundai,Hyundai Kona,2021,57239,17799
+2387,Hyundai,Hyundai Kona,2021,59128,17799
+2388,Toyota,Toyota Corolla,2019,42998,18499
+2389,Kia,Kia Sportage,2019,59397,18499
+2390,Nissan,Nissan Sentra,2021,59757,18799
+2391,Toyota,Toyota Corolla,2019,37477,18999
+2392,Ford,Ford Fusion,2020,58735,18999
+2393,Toyota,Toyota Corolla,2021,60841,18999
+2394,Toyota,Toyota Corolla,2021,58128,19299
+2395,Nissan,Nissan Altima,2021,59583,19499
+2396,Jeep,Jeep Compass,2021,65832,20299
+2397,Chevrolet,Chevrolet Equinox,2021,58689,20499
+2398,Nissan,Nissan Altima,2021,61789,20499
+2399,Mitsubishi,Mitsubishi Outlander,2020,60507,20999
